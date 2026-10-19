@@ -9,8 +9,10 @@
 사용법 (ProGear 폴더에서): py scripts/upload_supabase.py
 """
 
+import base64
 import json
 import os
+import re
 import sys
 import urllib.error
 import urllib.request
@@ -22,9 +24,41 @@ GAMES = ["lol", "valorant", "pubg", "cs2", "overwatch"]
 
 
 def settings():
-    url = os.environ.get("SUPABASE_URL", "").rstrip("/")
-    key = os.environ.get("SUPABASE_SECRET_KEY", "")
+    # 복사할 때 딸려 온 공백 / 줄바꿈 / 따옴표 제거
+    url = os.environ.get("SUPABASE_URL", "").strip().strip("\"'").rstrip("/")
+    key = os.environ.get("SUPABASE_SECRET_KEY", "").strip().strip("\"'")
     return (url, key) if url and key else (None, None)
+
+
+def jwt_payload(key):
+    try:
+        part = key.split(".")[1]
+        return json.loads(base64.urlsafe_b64decode(part + "=" * (-len(part) % 4)))
+    except (IndexError, ValueError):
+        return None
+
+
+def key_problem(url, key):
+    """키 형식이 잘못됐으면 이유를 돌려줌 (키 값 자체는 화면에 보여 주지 않음)"""
+    project = re.match(r"https://([a-z0-9]+)\.supabase\.co$", url)
+    if not project:
+        return f"SUPABASE_URL 형식이 이상해요: {url} (https://<프로젝트 id>.supabase.co 형식이어야 함)"
+    if "<" in key or ">" in key or " " in key:
+        return "SUPABASE_SECRET_KEY에 '<secret 키>' 같은 예시 글자나 공백이 남아 있어요. 실제 키로 바꿔 주세요"
+    if "•" in key or "*" in key:
+        return "가려진 키(••••)가 복사됐어요. 대시보드에서 Reveal을 누르거나 복사 버튼으로 다시 복사해 주세요"
+    if key.startswith("sb_publishable_"):
+        return "publishable 키를 넣었어요. 이 키는 읽기 전용이라 올릴 수 없어요. secret 키(sb_secret_…)를 넣어 주세요"
+    if key.startswith("sb_"):
+        return None if key.startswith("sb_secret_") else f"알 수 없는 키 형식이에요 ({key[:10]}…)"
+    payload = jwt_payload(key)
+    if payload is None:
+        return f"키 형식이 아니에요 (길이 {len(key)}자). sb_secret_… 또는 eyJ…로 시작하는 키를 통째로 복사해 주세요"
+    if payload.get("role") != "service_role":
+        return f"'{payload.get('role')}' 키를 넣었어요. service_role 키(또는 sb_secret_…)를 넣어 주세요"
+    if payload.get("ref") and payload["ref"] != project.group(1):
+        return f"다른 프로젝트의 키예요 (키: {payload['ref']}, URL: {project.group(1)})"
+    return None
 
 
 def request(url, key, method="GET", body=None, prefer=None):
@@ -54,7 +88,25 @@ def main():
     if not base:
         log("[Supabase] SUPABASE_URL / SUPABASE_SECRET_KEY 환경 변수가 없어서 건너뜀")
         return False
-    now = datetime.now(timezone.utc).isoformat()
+    problem = key_problem(base, key)
+    if problem:
+        log(f"[Supabase] 올리지 않음: {problem}")
+        return False
+    # 올리기 전에 키 / 테이블을 한 번 확인 (실패 이유를 알기 쉽게)
+    try:
+        request(f"{base}/rest/v1/season_data?select=game&limit=1", key)
+    except RuntimeError as err:
+        text = str(err)
+        if text.startswith("Supabase 401"):
+            log(f"[Supabase] 키가 맞지 않아요 (형식: {key[:10]}…, 길이 {len(key)}자). 이 프로젝트의 secret 키를 "
+                "대시보드 Project Settings → API Keys에서 복사 버튼으로 다시 복사해 주세요."
+                " 키를 폐기(Revoke)했거나 다른 프로젝트 키일 수도 있어요")
+        elif "season_data" in text and ("does not exist" in text or "404" in text or "PGRST205" in text):
+            log("[Supabase] season_data 테이블이 없어요. scripts/supabase/schema.sql을 SQL Editor에서 먼저 실행해 주세요")
+        else:
+            log(f"[Supabase] 연결 확인 실패: {text}")
+        return False
+    now =datetime.now(timezone.utc).isoformat()
     count = 0
     for game in GAMES:
         for path in sorted((DATA_DIR / game).glob("*.json")):
