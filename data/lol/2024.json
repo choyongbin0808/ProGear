@@ -1,0 +1,7120 @@
+{
+  "game": "lol",
+  "season": 2024,
+  "gameVersion": null,
+  "updatedAt": "2026-10-19",
+  "rosterSource": "https://liquipedia.net/leagueoflegends/",
+  "gearSources": [
+    {
+      "site": "ProSettings.net (Wayback Machine)",
+      "url": "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/",
+      "date": "2024-09-09",
+      "fromSeason": null
+    },
+    {
+      "site": "ProSettings.net (Wayback Machine)",
+      "url": "https://web.archive.org/web/20241007104808/https://prosettings.net/lists/league-of-legends/",
+      "date": "2024-10-07",
+      "fromSeason": null
+    },
+    {
+      "site": "ProSettings.net (Wayback Machine)",
+      "url": "https://web.archive.org/web/20241117233512/https://prosettings.net/lists/league-of-legends/",
+      "date": "2024-11-17",
+      "fromSeason": null
+    }
+  ],
+  "competitions": [
+    {
+      "id": "lec-2024-winter",
+      "name": "LEC 2024 Winter",
+      "startDate": "2024-01-13",
+      "endDate": "2024-02-18",
+      "gameVersion": null,
+      "liquipedia": "https://liquipedia.net/leagueoflegends/LEC/2024/Winter"
+    },
+    {
+      "id": "lcs-2024-spring",
+      "name": "LCS 2024 Spring",
+      "startDate": "2024-01-20",
+      "endDate": "2024-03-31",
+      "gameVersion": null,
+      "liquipedia": "https://liquipedia.net/leagueoflegends/LCS/2024/Spring"
+    },
+    {
+      "id": "lck-2024-spring",
+      "name": "LCK 2024 Spring",
+      "startDate": "2024-01-17",
+      "endDate": "2024-04-14",
+      "gameVersion": null,
+      "liquipedia": "https://liquipedia.net/leagueoflegends/LCK/2024/Spring"
+    },
+    {
+      "id": "lec-2024-spring",
+      "name": "LEC 2024 Spring",
+      "startDate": "2024-03-09",
+      "endDate": "2024-04-14",
+      "gameVersion": null,
+      "liquipedia": "https://liquipedia.net/leagueoflegends/LEC/2024/Spring"
+    },
+    {
+      "id": "lpl-2024-spring",
+      "name": "LPL 2024 Spring",
+      "startDate": "2024-01-22",
+      "endDate": "2024-04-20",
+      "gameVersion": null,
+      "liquipedia": "https://liquipedia.net/leagueoflegends/LPL/2024/Spring"
+    },
+    {
+      "id": "lec-2024-summer",
+      "name": "LEC 2024 Summer",
+      "startDate": "2024-06-08",
+      "endDate": "2024-07-28",
+      "gameVersion": null,
+      "liquipedia": "https://liquipedia.net/leagueoflegends/LEC/2024/Summer"
+    },
+    {
+      "id": "lpl-2024-summer",
+      "name": "LPL 2024 Summer",
+      "startDate": "2024-06-01",
+      "endDate": "2024-08-30",
+      "gameVersion": null,
+      "liquipedia": "https://liquipedia.net/leagueoflegends/LPL/2024/Summer"
+    },
+    {
+      "id": "lcs-2024-summer",
+      "name": "LCS 2024 Summer",
+      "startDate": "2024-06-15",
+      "endDate": "2024-09-07",
+      "gameVersion": null,
+      "liquipedia": "https://liquipedia.net/leagueoflegends/LCS/2024/Summer"
+    },
+    {
+      "id": "lck-2024-summer",
+      "name": "LCK 2024 Summer",
+      "startDate": "2024-06-12",
+      "endDate": "2024-09-08",
+      "gameVersion": null,
+      "liquipedia": "https://liquipedia.net/leagueoflegends/LCK/2024/Summer"
+    }
+  ],
+  "teams": [
+    {
+      "id": "fnatic",
+      "name": "Fnatic",
+      "competitions": [
+        "lec-2024-winter",
+        "lec-2024-spring",
+        "lec-2024-summer"
+      ]
+    },
+    {
+      "id": "g2-esports",
+      "name": "G2 Esports",
+      "competitions": [
+        "lec-2024-winter",
+        "lec-2024-spring",
+        "lec-2024-summer"
+      ]
+    },
+    {
+      "id": "giantx",
+      "name": "GIANTX",
+      "competitions": [
+        "lec-2024-winter",
+        "lec-2024-spring",
+        "lec-2024-summer"
+      ]
+    },
+    {
+      "id": "karmine-corp",
+      "name": "Karmine Corp",
+      "competitions": [
+        "lec-2024-winter",
+        "lec-2024-spring",
+        "lec-2024-summer"
+      ]
+    },
+    {
+      "id": "mad-lions-koi",
+      "name": "MAD Lions KOI",
+      "competitions": [
+        "lec-2024-winter",
+        "lec-2024-spring",
+        "lec-2024-summer"
+      ]
+    },
+    {
+      "id": "rogue",
+      "name": "Rogue",
+      "competitions": [
+        "lec-2024-winter",
+        "lec-2024-spring",
+        "lec-2024-summer"
+      ]
+    },
+    {
+      "id": "sk-gaming",
+      "name": "SK Gaming",
+      "competitions": [
+        "lec-2024-winter",
+        "lec-2024-spring",
+        "lec-2024-summer"
+      ]
+    },
+    {
+      "id": "team-bds",
+      "name": "Team BDS",
+      "competitions": [
+        "lec-2024-winter",
+        "lec-2024-spring",
+        "lec-2024-summer"
+      ]
+    },
+    {
+      "id": "team-heretics",
+      "name": "Team Heretics",
+      "competitions": [
+        "lec-2024-winter",
+        "lec-2024-spring",
+        "lec-2024-summer"
+      ]
+    },
+    {
+      "id": "team-vitality",
+      "name": "Team Vitality",
+      "competitions": [
+        "lec-2024-winter",
+        "lec-2024-spring",
+        "lec-2024-summer"
+      ]
+    },
+    {
+      "id": "100-thieves",
+      "name": "100 Thieves",
+      "competitions": [
+        "lcs-2024-spring",
+        "lcs-2024-summer"
+      ]
+    },
+    {
+      "id": "cloud9",
+      "name": "Cloud9",
+      "competitions": [
+        "lcs-2024-spring",
+        "lcs-2024-summer"
+      ]
+    },
+    {
+      "id": "dignitas",
+      "name": "Dignitas",
+      "competitions": [
+        "lcs-2024-spring",
+        "lcs-2024-summer"
+      ]
+    },
+    {
+      "id": "flyquest",
+      "name": "FlyQuest",
+      "competitions": [
+        "lcs-2024-spring",
+        "lcs-2024-summer"
+      ]
+    },
+    {
+      "id": "immortals",
+      "name": "Immortals",
+      "competitions": [
+        "lcs-2024-spring",
+        "lcs-2024-summer"
+      ]
+    },
+    {
+      "id": "nrg",
+      "name": "NRG",
+      "competitions": [
+        "lcs-2024-spring",
+        "lcs-2024-summer"
+      ]
+    },
+    {
+      "id": "shopify-rebellion",
+      "name": "Shopify Rebellion",
+      "competitions": [
+        "lcs-2024-spring",
+        "lcs-2024-summer"
+      ]
+    },
+    {
+      "id": "team-liquid",
+      "name": "Team Liquid",
+      "competitions": [
+        "lcs-2024-spring",
+        "lcs-2024-summer"
+      ]
+    },
+    {
+      "id": "brion",
+      "name": "BRION",
+      "competitions": [
+        "lck-2024-spring",
+        "lck-2024-summer"
+      ]
+    },
+    {
+      "id": "dplus",
+      "name": "Dplus",
+      "competitions": [
+        "lck-2024-spring",
+        "lck-2024-summer"
+      ]
+    },
+    {
+      "id": "drx",
+      "name": "DRX",
+      "competitions": [
+        "lck-2024-spring",
+        "lck-2024-summer"
+      ]
+    },
+    {
+      "id": "fearx",
+      "name": "FearX",
+      "competitions": [
+        "lck-2024-spring",
+        "lck-2024-summer"
+      ]
+    },
+    {
+      "id": "freecs",
+      "name": "Freecs",
+      "competitions": [
+        "lck-2024-spring",
+        "lck-2024-summer"
+      ]
+    },
+    {
+      "id": "gen-g",
+      "name": "Gen.G",
+      "competitions": [
+        "lck-2024-spring",
+        "lck-2024-summer"
+      ]
+    },
+    {
+      "id": "hanwha-life-esports",
+      "name": "Hanwha Life Esports",
+      "competitions": [
+        "lck-2024-spring",
+        "lck-2024-summer"
+      ]
+    },
+    {
+      "id": "kt-rolster",
+      "name": "KT Rolster",
+      "competitions": [
+        "lck-2024-spring",
+        "lck-2024-summer"
+      ]
+    },
+    {
+      "id": "nongshim-redforce",
+      "name": "Nongshim RedForce",
+      "competitions": [
+        "lck-2024-spring",
+        "lck-2024-summer"
+      ]
+    },
+    {
+      "id": "t1",
+      "name": "T1",
+      "competitions": [
+        "lck-2024-spring",
+        "lck-2024-summer"
+      ]
+    },
+    {
+      "id": "anyone-s-legend",
+      "name": "Anyone's Legend",
+      "competitions": [
+        "lpl-2024-spring",
+        "lpl-2024-summer"
+      ]
+    },
+    {
+      "id": "bilibili-gaming",
+      "name": "Bilibili Gaming",
+      "competitions": [
+        "lpl-2024-spring",
+        "lpl-2024-summer"
+      ]
+    },
+    {
+      "id": "edward-gaming",
+      "name": "EDward Gaming",
+      "competitions": [
+        "lpl-2024-spring",
+        "lpl-2024-summer"
+      ]
+    },
+    {
+      "id": "funplus-phoenix",
+      "name": "FunPlus Phoenix",
+      "competitions": [
+        "lpl-2024-spring",
+        "lpl-2024-summer"
+      ]
+    },
+    {
+      "id": "invictus-gaming",
+      "name": "Invictus Gaming",
+      "competitions": [
+        "lpl-2024-spring",
+        "lpl-2024-summer"
+      ]
+    },
+    {
+      "id": "jd-gaming",
+      "name": "JD Gaming",
+      "competitions": [
+        "lpl-2024-spring",
+        "lpl-2024-summer"
+      ]
+    },
+    {
+      "id": "lgd-gaming",
+      "name": "LGD Gaming",
+      "competitions": [
+        "lpl-2024-spring",
+        "lpl-2024-summer"
+      ]
+    },
+    {
+      "id": "lng-esports",
+      "name": "LNG Esports",
+      "competitions": [
+        "lpl-2024-spring",
+        "lpl-2024-summer"
+      ]
+    },
+    {
+      "id": "ninjas-in-pyjamas",
+      "name": "Ninjas in Pyjamas",
+      "competitions": [
+        "lpl-2024-spring",
+        "lpl-2024-summer"
+      ]
+    },
+    {
+      "id": "oh-my-god",
+      "name": "Oh My God",
+      "competitions": [
+        "lpl-2024-spring",
+        "lpl-2024-summer"
+      ]
+    },
+    {
+      "id": "rare-atom",
+      "name": "Rare Atom",
+      "competitions": [
+        "lpl-2024-spring",
+        "lpl-2024-summer"
+      ]
+    },
+    {
+      "id": "royal-never-give-up",
+      "name": "Royal Never Give Up",
+      "competitions": [
+        "lpl-2024-spring",
+        "lpl-2024-summer"
+      ]
+    },
+    {
+      "id": "team-we",
+      "name": "Team WE",
+      "competitions": [
+        "lpl-2024-spring",
+        "lpl-2024-summer"
+      ]
+    },
+    {
+      "id": "thundertalk-gaming",
+      "name": "ThunderTalk Gaming",
+      "competitions": [
+        "lpl-2024-spring",
+        "lpl-2024-summer"
+      ]
+    },
+    {
+      "id": "top-esports",
+      "name": "Top Esports",
+      "competitions": [
+        "lpl-2024-spring",
+        "lpl-2024-summer"
+      ]
+    },
+    {
+      "id": "ultra-prime",
+      "name": "Ultra Prime",
+      "competitions": [
+        "lpl-2024-spring",
+        "lpl-2024-summer"
+      ]
+    },
+    {
+      "id": "weibo-gaming",
+      "name": "Weibo Gaming",
+      "competitions": [
+        "lpl-2024-spring",
+        "lpl-2024-summer"
+      ]
+    }
+  ],
+  "players": [
+    {
+      "id": "0909",
+      "name": "0909",
+      "team": "edward-gaming",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/0909",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "1xn",
+      "name": "1xn",
+      "team": "thundertalk-gaming",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/1xn",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "369",
+      "name": "369",
+      "team": "top-esports",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/369",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "able",
+      "name": "Able",
+      "team": "team-we",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Able",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "adam",
+      "name": "Adam",
+      "team": "team-bds",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Adam",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "ahn",
+      "name": "Ahn",
+      "team": "invictus-gaming",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Ahn",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "aiming",
+      "name": "Aiming",
+      "team": "dplus",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Aiming",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "aki",
+      "name": "AKi",
+      "team": "ninjas-in-pyjamas",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/AKi",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "ale",
+      "name": "Ale",
+      "team": "anyone-s-legend",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Ale",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G Pro Wireless",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro Wireless",
+          "site": "prosettings"
+        },
+        "keyboard": null,
+        "monitor": null,
+        "headset": {
+          "brand": "Razer",
+          "model": "Hammerhead Pro V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Hammerhead Pro V2",
+          "site": "prosettings"
+        },
+        "mousepad": null
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "alvaro-alvaro-fernandez",
+      "name": "Alvaro",
+      "team": "mad-lions-koi",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Alvaro_(Álvaro_Fernández)",
+      "gear": {
+        "mouse": {
+          "brand": "Razer",
+          "model": "Viper V2 Pro",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Razer Viper V2 Pro Black",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Razer",
+          "model": "Blackwidow V4 75%",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Blackwidow V4 75%",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "Lenovo",
+          "model": "Legion Y25-30",
+          "color": null,
+          "edition": null,
+          "rawName": "Lenovo Legion Y25-30",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "Razer",
+          "model": "BlackShark V2 Pro",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Razer BlackShark V2 Pro Black",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Razer",
+          "model": "Gigantus V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Gigantus V2",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "andil",
+      "name": "Andil",
+      "team": "freecs",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Andil",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "angel-chinese-player",
+      "name": "Angel",
+      "team": "oh-my-god",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Angel_(Chinese_player)",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "apa",
+      "name": "APA",
+      "team": "team-liquid",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/APA",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "armao",
+      "name": "Armao",
+      "team": "immortals",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Armao",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "assum",
+      "name": "Assum",
+      "team": "rare-atom",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Assum",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "bdd",
+      "name": "Bdd",
+      "team": "kt-rolster",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Bdd",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G903",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G903",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Logitech",
+          "model": "G Pro X Keyboard",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro X Keyboard",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "ASUS",
+          "model": "ROG SWIFT PG258Q",
+          "color": null,
+          "edition": null,
+          "rawName": "ASUS ROG SWIFT PG258Q",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "ASTRO",
+          "model": "A50",
+          "color": null,
+          "edition": null,
+          "rawName": "ASTRO A50",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Logitech",
+          "model": "G640",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G640 Original",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "beichuan",
+      "name": "Beichuan",
+      "team": "thundertalk-gaming",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Beichuan",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "berserker-korean-player",
+      "name": "Berserker",
+      "team": "cloud9",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Berserker_(Korean_player)",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G Pro Gaming Mouse",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro Gaming Mouse",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Logitech",
+          "model": "G Pro X Keyboard",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro X Keyboard",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "ASUS",
+          "model": "TUF VG259QM",
+          "color": null,
+          "edition": null,
+          "rawName": "ASUS TUF VG259QM",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "Logitech",
+          "model": "G Pro X Wireless Headset",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro X Wireless Headset",
+          "site": "prosettings"
+        },
+        "mousepad": null
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "beryl",
+      "name": "BeryL",
+      "team": "kt-rolster",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/BeryL",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G403 HERO",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G403 HERO",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Logitech",
+          "model": "G513",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G513",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "ASUS",
+          "model": "TUF VG259QM",
+          "color": null,
+          "edition": null,
+          "rawName": "ASUS TUF VG259QM",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "Logitech",
+          "model": "G Pro X Headset",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro X Headset",
+          "site": "prosettings"
+        },
+        "mousepad": null
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "bin",
+      "name": "Bin",
+      "team": "bilibili-gaming",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Bin",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "blaber",
+      "name": "Blaber",
+      "team": "cloud9",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Blaber",
+      "gear": {
+        "mouse": null,
+        "keyboard": {
+          "brand": "HyperX",
+          "model": "Alloy Origins",
+          "color": null,
+          "edition": null,
+          "rawName": "HyperX Alloy Origins",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "Omen",
+          "model": "X25F",
+          "color": null,
+          "edition": null,
+          "rawName": "Omen X25F",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "Sennheiser",
+          "model": "GAME ONE",
+          "color": null,
+          "edition": null,
+          "rawName": "Sennheiser GAME ONE",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "HyperX",
+          "model": "Fury",
+          "color": null,
+          "edition": "S Speed Edition",
+          "rawName": "HyperX Fury S Speed Edition",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "bo",
+      "name": "Bo",
+      "team": "karmine-corp",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Bo",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "breathe",
+      "name": "Breathe",
+      "team": "weibo-gaming",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Breathe",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "brokenblade",
+      "name": "BrokenBlade",
+      "team": "g2-esports",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/BrokenBlade",
+      "gear": {
+        "mouse": null,
+        "keyboard": {
+          "brand": "Corsair",
+          "model": "K65 Rapidfire",
+          "color": null,
+          "edition": null,
+          "rawName": "Corsair K65 Rapidfire",
+          "site": "prosettings"
+        },
+        "monitor": null,
+        "headset": {
+          "brand": "Corsair",
+          "model": "Void RGB Elite",
+          "color": "White",
+          "edition": null,
+          "rawName": "Corsair Void RGB Elite White",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Corsair",
+          "model": "MM300",
+          "color": null,
+          "edition": null,
+          "rawName": "Corsair MM300",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "bugi",
+      "name": "Bugi",
+      "team": "shopify-rebellion",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Bugi",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "bull",
+      "name": "Bull",
+      "team": "freecs",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Bull",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "bulldog",
+      "name": "BuLLDoG",
+      "team": "freecs",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/BuLLDoG",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "burdol",
+      "name": "Burdol",
+      "team": "lgd-gaming",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Burdol",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "busio",
+      "name": "Busio",
+      "team": "flyquest",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Busio",
+      "gear": {
+        "mouse": {
+          "brand": "Razer",
+          "model": "Viper V2 Pro",
+          "color": "White",
+          "edition": null,
+          "rawName": "Razer Viper V2 Pro White",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Razer",
+          "model": "Huntsman V2 TKL",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Huntsman V2 TKL",
+          "site": "prosettings"
+        },
+        "monitor": null,
+        "headset": null,
+        "mousepad": {
+          "brand": "Logitech",
+          "model": "G640",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Logitech G640 Black",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20241117233512/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-11-17",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-11-17"
+    },
+    {
+      "id": "bvoy",
+      "name": "Bvoy",
+      "team": "shopify-rebellion",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Bvoy",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "bwipo",
+      "name": "Bwipo",
+      "team": "flyquest",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Bwipo",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G Pro X Superlight",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Logitech G Pro X Superlight Black",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Logitech",
+          "model": "G Pro Keyboard",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro Keyboard",
+          "site": "prosettings"
+        },
+        "monitor": null,
+        "headset": null,
+        "mousepad": {
+          "brand": "Logitech",
+          "model": "G840",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G840",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20241007104808/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-10-07",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-10-07"
+    },
+    {
+      "id": "cabochard",
+      "name": "Cabochard",
+      "team": "karmine-corp",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Cabochard",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "callme",
+      "name": "Callme",
+      "team": "nongshim-redforce",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Callme",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "canna",
+      "name": "Canna",
+      "team": "karmine-corp",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Canna",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "canyon",
+      "name": "Canyon",
+      "team": "gen-g",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Canyon",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G Pro Gaming Mouse",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro Gaming Mouse",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Logitech",
+          "model": "G512",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G512",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "ASUS",
+          "model": "TUF VG259QM",
+          "color": null,
+          "edition": null,
+          "rawName": "ASUS TUF VG259QM",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "ASTRO",
+          "model": "A50",
+          "color": null,
+          "edition": null,
+          "rawName": "ASTRO A50",
+          "site": "prosettings"
+        },
+        "mousepad": null
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "caps",
+      "name": "Caps",
+      "team": "g2-esports",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Caps",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G Pro X Superlight",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Logitech G Pro X Superlight Black",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Logitech",
+          "model": "G Pro X Keyboard",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro X Keyboard",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "AOC",
+          "model": "AG251FZ2E",
+          "color": null,
+          "edition": null,
+          "rawName": "AOC AG251FZ2E",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "Logitech",
+          "model": "G Pro X Wireless Headset",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro X Wireless Headset",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Logitech",
+          "model": "G640",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G640 Original",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "care",
+      "name": "Care",
+      "team": "funplus-phoenix",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Care",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "carzzy",
+      "name": "Carzzy",
+      "team": "team-vitality",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Carzzy",
+      "gear": {
+        "mouse": {
+          "brand": "Razer",
+          "model": "Basilisk V3 Pro",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Basilisk V3 Pro",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Razer",
+          "model": "Huntsman V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Huntsman V2",
+          "site": "prosettings"
+        },
+        "monitor": null,
+        "headset": {
+          "brand": "Razer",
+          "model": "BlackShark V2 Pro",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Razer BlackShark V2 Pro Black",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Razer",
+          "model": "Strider",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Strider",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "castle",
+      "name": "Castle",
+      "team": "immortals",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Castle",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "chovy",
+      "name": "Chovy",
+      "team": "gen-g",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Chovy",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "clear",
+      "name": "Clear",
+      "team": "fearx",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Clear",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "closer",
+      "name": "Closer",
+      "team": "karmine-corp",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Closer",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "clozer",
+      "name": "Clozer",
+      "team": "fearx",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Clozer",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "comp",
+      "name": "Comp",
+      "team": "rogue",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Comp",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G Pro Wireless",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro Wireless",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Razer",
+          "model": "Huntsman V2 TKL",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Huntsman V2 TKL",
+          "site": "prosettings"
+        },
+        "monitor": null,
+        "headset": {
+          "brand": "Razer",
+          "model": "BlackShark V2 Pro",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Razer BlackShark V2 Pro Black",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Razer",
+          "model": "Strider",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Strider",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "contractz",
+      "name": "Contractz",
+      "team": "nrg",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Contractz",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "corejj",
+      "name": "CoreJJ",
+      "team": "team-liquid",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/CoreJJ",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G Pro Wireless",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro Wireless",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Razer",
+          "model": "BlackWidow Chroma V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer BlackWidow Chroma V2",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "Alienware",
+          "model": "AW2521H",
+          "color": null,
+          "edition": null,
+          "rawName": "Alienware AW2521H",
+          "site": "prosettings"
+        },
+        "headset": null,
+        "mousepad": {
+          "brand": "Razer",
+          "model": "Strider",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Strider",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "creme",
+      "name": "Creme",
+      "team": "top-esports",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Creme",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "crisp",
+      "name": "Crisp",
+      "team": "weibo-gaming",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Crisp",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "croco",
+      "name": "Croco",
+      "team": "anyone-s-legend",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Croco",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "cryin",
+      "name": "Cryin",
+      "team": "edward-gaming",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Cryin",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "cube",
+      "name": "Cube",
+      "team": "oh-my-god",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Cube",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "cuzz",
+      "name": "Cuzz",
+      "team": "freecs",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Cuzz",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "daglas",
+      "name": "Daglas",
+      "team": "team-vitality",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Daglas",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "decade",
+      "name": "Decade",
+      "team": "ultra-prime",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Decade",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "deft",
+      "name": "Deft",
+      "team": "kt-rolster",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Deft",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "delight",
+      "name": "Delight",
+      "team": "hanwha-life-esports",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Delight",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "deokdam",
+      "name": "deokdam",
+      "team": "funplus-phoenix",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/deokdam",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "dhokla",
+      "name": "Dhokla",
+      "team": "nrg",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Dhokla",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "dndn",
+      "name": "DnDn",
+      "team": "nongshim-redforce",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/DnDn",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "doggo",
+      "name": "Doggo",
+      "team": "ultra-prime",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Doggo",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "doran",
+      "name": "Doran",
+      "team": "hanwha-life-esports",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Doran",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "doss",
+      "name": "Doss",
+      "team": "sk-gaming",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Doss",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "dove",
+      "name": "Dove",
+      "team": "dignitas",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Dove",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "dudu",
+      "name": "DuDu",
+      "team": "freecs",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/DuDu",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "duro",
+      "name": "Duro",
+      "team": "fearx",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Duro",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "effort",
+      "name": "Effort",
+      "team": "brion",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Effort",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "elk",
+      "name": "Elk",
+      "team": "bilibili-gaming",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Elk",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "elyoya",
+      "name": "Elyoya",
+      "team": "mad-lions-koi",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Elyoya",
+      "gear": {
+        "mouse": {
+          "brand": "Razer",
+          "model": "Viper V3 Pro",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Razer Viper V3 Pro Black",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Razer",
+          "model": "Huntsman V3 Pro TKL",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Razer Huntsman V3 Pro TKL Black",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "Lenovo",
+          "model": "Legion Y25-30",
+          "color": null,
+          "edition": null,
+          "rawName": "Lenovo Legion Y25-30",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "Razer",
+          "model": "BlackShark V2 Pro",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Razer BlackShark V2 Pro Black",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Razer",
+          "model": "Gigantus V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Gigantus V2",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "envyy",
+      "name": "Envyy",
+      "team": "brion",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Envyy",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "exakick",
+      "name": "Exakick",
+      "team": "sk-gaming",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Exakick",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "execute",
+      "name": "Execute",
+      "team": "fearx",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Execute",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "exyu",
+      "name": "Exyu",
+      "team": "dignitas",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Exyu",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "eyla",
+      "name": "Eyla",
+      "team": "100-thieves",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Eyla",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "fakegod",
+      "name": "FakeGod",
+      "team": "shopify-rebellion",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/FakeGod",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "faker",
+      "name": "Faker",
+      "team": "t1",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Faker",
+      "gear": {
+        "mouse": {
+          "brand": "Razer",
+          "model": "Deathadder V2 Pro",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Deathadder V2 Pro",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Razer",
+          "model": "Huntsman V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Huntsman V2",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "ASUS",
+          "model": "TUF VG279QM",
+          "color": null,
+          "edition": null,
+          "rawName": "ASUS TUF VG279QM",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "Logitech",
+          "model": "G Pro X Headset",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro X Headset",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Razer",
+          "model": "Goliathus Control",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Goliathus Control",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "fate-korean-player",
+      "name": "FATE",
+      "team": "brion",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/FATE_(Korean_player)",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "fbi",
+      "name": "FBI",
+      "team": "nrg",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/FBI",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "feather",
+      "name": "Feather",
+      "team": "thundertalk-gaming",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Feather",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "finn",
+      "name": "Finn",
+      "team": "rogue",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Finn",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "flakked",
+      "name": "Flakked",
+      "team": "team-heretics",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Flakked",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "flandre",
+      "name": "Flandre",
+      "team": "jd-gaming",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Flandre",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "fofo",
+      "name": "FoFo",
+      "team": "team-we",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/FoFo",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "fresskowy",
+      "name": "Fresskowy",
+      "team": "mad-lions-koi",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Fresskowy",
+      "gear": {
+        "mouse": {
+          "brand": "Razer",
+          "model": "Viper V2 Pro",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Razer Viper V2 Pro Black",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Razer",
+          "model": "Blackwidow V4 75%",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Blackwidow V4 75%",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "Lenovo",
+          "model": "Legion Y25-30",
+          "color": null,
+          "edition": null,
+          "rawName": "Lenovo Legion Y25-30",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "Razer",
+          "model": "BlackShark V2 Pro",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Razer BlackShark V2 Pro Black",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Razer",
+          "model": "Gigantus V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Gigantus V2",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "fudge",
+      "name": "Fudge",
+      "team": "cloud9",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Fudge",
+      "gear": {
+        "mouse": null,
+        "keyboard": {
+          "brand": "HyperX",
+          "model": "Alloy Origins",
+          "color": null,
+          "edition": null,
+          "rawName": "HyperX Alloy Origins",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "Omen",
+          "model": "X25F",
+          "color": null,
+          "edition": null,
+          "rawName": "Omen X25F",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "Sennheiser",
+          "model": "GAME ONE",
+          "color": null,
+          "edition": null,
+          "rawName": "Sennheiser GAME ONE",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "HyperX",
+          "model": "Fury",
+          "color": null,
+          "edition": "S Speed Edition",
+          "rawName": "HyperX Fury S Speed Edition",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "gala",
+      "name": "GALA",
+      "team": "lng-esports",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/GALA",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "geju",
+      "name": "Geju",
+      "team": "royal-never-give-up",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Geju",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "gideon",
+      "name": "GIDEON",
+      "team": "brion",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/GIDEON",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "glfs",
+      "name": "glfs",
+      "team": "invictus-gaming",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/glfs",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "guger",
+      "name": "GuGer",
+      "team": "nongshim-redforce",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/GuGer",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "gumayusi",
+      "name": "Gumayusi",
+      "team": "t1",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Gumayusi",
+      "gear": {
+        "mouse": {
+          "brand": "Razer",
+          "model": "DeathAdder V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer DeathAdder V2",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Logitech",
+          "model": "G Pro X Keyboard",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro X Keyboard",
+          "site": "prosettings"
+        },
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "h4cker",
+      "name": "H4cker",
+      "team": "ultra-prime",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/H4cker",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "haichao",
+      "name": "haichao",
+      "team": "lgd-gaming",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/haichao",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "hang",
+      "name": "Hang",
+      "team": "lng-esports",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Hang",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "hans-sama",
+      "name": "Hans Sama",
+      "team": "g2-esports",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Hans_Sama",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G Pro X Superlight",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Logitech G Pro X Superlight Black",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Corsair",
+          "model": "K95 RGB PLATINUM",
+          "color": null,
+          "edition": null,
+          "rawName": "Corsair K95 RGB PLATINUM",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "Alienware",
+          "model": "AW2518H",
+          "color": null,
+          "edition": null,
+          "rawName": "Alienware AW2518H",
+          "site": "prosettings"
+        },
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "hena",
+      "name": "Hena",
+      "team": "fearx",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Hena",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "heng",
+      "name": "Heng",
+      "team": "team-we",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Heng",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "hery",
+      "name": "Hery",
+      "team": "oh-my-god",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Hery",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "hope-chinese-player",
+      "name": "Hope",
+      "team": "anyone-s-legend",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Hope_(Chinese_player)",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "hoya",
+      "name": "Hoya",
+      "team": "thundertalk-gaming",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Hoya",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "huanfeng",
+      "name": "huanfeng",
+      "team": "royal-never-give-up",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/huanfeng",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "huhi",
+      "name": "huhi",
+      "team": "nrg",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/huhi",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "humanoid",
+      "name": "Humanoid",
+      "team": "fnatic",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Humanoid",
+      "gear": {
+        "mouse": {
+          "brand": "Razer",
+          "model": "Viper Ultimate",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Viper Ultimate",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Razer",
+          "model": "Huntsman V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Huntsman V2",
+          "site": "prosettings"
+        },
+        "monitor": null,
+        "headset": {
+          "brand": "Razer",
+          "model": "BlackShark V2 Pro",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Razer BlackShark V2 Pro Black",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Razer",
+          "model": "Gigantus V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Gigantus V2",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "hylissang",
+      "name": "Hylissang",
+      "team": "team-vitality",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Hylissang",
+      "gear": {
+        "mouse": {
+          "brand": "Razer",
+          "model": "Viper Ultimate",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Viper Ultimate",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Razer",
+          "model": "Huntsman V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Huntsman V2",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "Alienware",
+          "model": "AW2518H",
+          "color": null,
+          "edition": null,
+          "rawName": "Alienware AW2518H",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "Razer",
+          "model": "BlackShark V2 Pro",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Razer BlackShark V2 Pro Black",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Razer",
+          "model": "Gigantus V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Gigantus V2",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "ice",
+      "name": "Ice",
+      "team": "team-bds",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Ice",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "ignar",
+      "name": "IgNar",
+      "team": "giantx",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/IgNar",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "impact",
+      "name": "Impact",
+      "team": "team-liquid",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Impact",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": {
+          "brand": "LG",
+          "model": "ULTRAGEAR 27GN750-B",
+          "color": null,
+          "edition": null,
+          "rawName": "LG ULTRAGEAR 27GN750-B",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "Razer",
+          "model": "BlackShark V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer BlackShark V2",
+          "site": "prosettings"
+        },
+        "mousepad": null
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "insanity",
+      "name": "Insanity",
+      "team": "shopify-rebellion",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Insanity",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "inspired",
+      "name": "Inspired",
+      "team": "flyquest",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Inspired",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G Pro X Superlight",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Logitech G Pro X Superlight Black",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Logitech",
+          "model": "G Pro X Keyboard",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro X Keyboard",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "Alienware",
+          "model": "AW2518H",
+          "color": null,
+          "edition": null,
+          "rawName": "Alienware AW2518H",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "Razer",
+          "model": "BlackShark V2 Pro",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Razer BlackShark V2 Pro Black",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Logitech",
+          "model": "G840",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G840",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "irrelevant",
+      "name": "Irrelevant",
+      "team": "sk-gaming",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Irrelevant",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "isles",
+      "name": "Isles",
+      "team": "dignitas",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Isles",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "isma",
+      "name": "Isma",
+      "team": "sk-gaming",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Isma",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "iwandy",
+      "name": "Iwandy",
+      "team": "team-we",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Iwandy",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G Pro Wireless",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro Wireless",
+          "site": "prosettings"
+        },
+        "keyboard": null,
+        "monitor": null,
+        "headset": {
+          "brand": "Razer",
+          "model": "Kraken Kitty",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Kraken Kitty",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Razer",
+          "model": "Gigantus V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Gigantus V2",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "jackeylove",
+      "name": "JackeyLove",
+      "team": "top-esports",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/JackeyLove",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "jackies",
+      "name": "Jackies",
+      "team": "giantx",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Jackies",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "jankos",
+      "name": "Jankos",
+      "team": "team-heretics",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Jankos",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G703",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G703",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Logitech",
+          "model": "G Pro X Keyboard",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro X Keyboard",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "AOC",
+          "model": "AG251FZ2E",
+          "color": null,
+          "edition": null,
+          "rawName": "AOC AG251FZ2E",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "Logitech",
+          "model": "G Pro X Wireless Headset",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro X Wireless Headset",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Logitech",
+          "model": "G640",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G640 Original",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "jensen",
+      "name": "Jensen",
+      "team": "dignitas",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Jensen",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "jiejie",
+      "name": "Jiejie",
+      "team": "edward-gaming",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Jiejie",
+      "gear": {
+        "mouse": {
+          "brand": "Razer",
+          "model": "Viper 8KHz",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Viper 8KHz",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Razer",
+          "model": "Huntsman Elite",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Huntsman Elite",
+          "site": "prosettings"
+        },
+        "monitor": null,
+        "headset": {
+          "brand": "Razer",
+          "model": "BlackShark V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer BlackShark V2",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Razer",
+          "model": "Gigantus V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Gigantus V2",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "jinjiao",
+      "name": "Jinjiao",
+      "team": "lgd-gaming",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Jinjiao",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "jiwoo",
+      "name": "Jiwoo",
+      "team": "nongshim-redforce",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Jiwoo",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "jojopyun",
+      "name": "Jojopyun",
+      "team": "cloud9",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Jojopyun",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "juhan",
+      "name": "Juhan",
+      "team": "giantx",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Juhan",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "juice",
+      "name": "Juice",
+      "team": "royal-never-give-up",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Juice",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "jun",
+      "name": "Jun",
+      "team": "fnatic",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Jun",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "jwei",
+      "name": "Jwei",
+      "team": "rare-atom",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Jwei",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "kael",
+      "name": "Kael",
+      "team": "anyone-s-legend",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Kael",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "kaiser",
+      "name": "Kaiser",
+      "team": "team-heretics",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Kaiser",
+      "gear": {
+        "mouse": {
+          "brand": "Razer",
+          "model": "Deathadder V3 Pro",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Razer Deathadder V3 Pro Black",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Razer",
+          "model": "Blackwidow V3",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Blackwidow V3",
+          "site": "prosettings"
+        },
+        "monitor": null,
+        "headset": {
+          "brand": "Razer",
+          "model": "BlackShark V2 Pro",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Razer BlackShark V2 Pro Black",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Razer",
+          "model": "Gigantus V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Gigantus V2",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "kanavi",
+      "name": "Kanavi",
+      "team": "jd-gaming",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Kanavi",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G Pro X Superlight",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Logitech G Pro X Superlight Black",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Corsair",
+          "model": "K68",
+          "color": null,
+          "edition": null,
+          "rawName": "Corsair K68",
+          "site": "prosettings"
+        },
+        "monitor": null,
+        "headset": {
+          "brand": "Razer",
+          "model": "BlackShark V2 Pro",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Razer BlackShark V2 Pro Black",
+          "site": "prosettings"
+        },
+        "mousepad": null
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "karis",
+      "name": "Karis",
+      "team": "brion",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Karis",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "kellin",
+      "name": "Kellin",
+      "team": "dplus",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Kellin",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "kepler",
+      "name": "Kepler",
+      "team": "lgd-gaming",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Kepler",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "keria",
+      "name": "Keria",
+      "team": "t1",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Keria",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G Pro Wireless",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro Wireless",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Corsair",
+          "model": "K70 RGB MK.2",
+          "color": null,
+          "edition": null,
+          "rawName": "Corsair K70 RGB MK.2",
+          "site": "prosettings"
+        },
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "kiin",
+      "name": "Kiin",
+      "team": "gen-g",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Kiin",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "kingen",
+      "name": "Kingen",
+      "team": "dplus",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Kingen",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G703",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G703",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Razer",
+          "model": "Blackwidow Lite",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Blackwidow Lite",
+          "site": "prosettings"
+        },
+        "monitor": null,
+        "headset": {
+          "brand": "HyperX",
+          "model": "Cloud Flight",
+          "color": null,
+          "edition": null,
+          "rawName": "HyperX Cloud Flight S",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Razer",
+          "model": "Gigantus V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Gigantus V2",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "knight",
+      "name": "knight",
+      "team": "bilibili-gaming",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/knight",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "labrov",
+      "name": "Labrov",
+      "team": "team-bds",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Labrov",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": {
+          "brand": "Alienware",
+          "model": "AW2521H",
+          "color": null,
+          "edition": null,
+          "rawName": "Alienware AW2521H",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "Corsair",
+          "model": "Virtuoso",
+          "color": null,
+          "edition": null,
+          "rawName": "Corsair Virtuoso",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Corsair",
+          "model": "MM300",
+          "color": null,
+          "edition": null,
+          "rawName": "Corsair MM300",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "larssen",
+      "name": "Larssen",
+      "team": "rogue",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Larssen",
+      "gear": {
+        "mouse": {
+          "brand": "Razer",
+          "model": "Viper V2 Pro",
+          "color": "White",
+          "edition": null,
+          "rawName": "Razer Viper V2 Pro White",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Razer",
+          "model": "Huntsman V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Huntsman V2",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "Alienware",
+          "model": "AW2518H",
+          "color": null,
+          "edition": null,
+          "rawName": "Alienware AW2518H",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "Razer",
+          "model": "BlackShark V2 Pro",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Razer BlackShark V2 Pro Black",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Razer",
+          "model": "Strider",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Strider",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "leaper",
+      "name": "Leaper",
+      "team": "freecs",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Leaper",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "leave",
+      "name": "Leave",
+      "team": "edward-gaming",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Leave",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "lehends",
+      "name": "Lehends",
+      "team": "gen-g",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Lehends",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "leyan",
+      "name": "Leyan",
+      "team": "ninjas-in-pyjamas",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Leyan",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "licorice",
+      "name": "Licorice",
+      "team": "dignitas",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Licorice",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "life",
+      "name": "Life",
+      "team": "funplus-phoenix",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Life",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G903",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G903",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Razer",
+          "model": "Blackwidow V3",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Blackwidow V3",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "ASUS",
+          "model": "ROG SWIFT PG258Q",
+          "color": null,
+          "edition": null,
+          "rawName": "ASUS ROG SWIFT PG258Q",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "Razer",
+          "model": "BlackShark V2 Pro",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Razer BlackShark V2 Pro Black",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Razer",
+          "model": "Gigantus V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Gigantus V2",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "light-wang-guang-yu",
+      "name": "Light",
+      "team": "weibo-gaming",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Light_(Wang_Guang-Yu)",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G Pro Wireless",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro Wireless",
+          "site": "prosettings"
+        },
+        "keyboard": null,
+        "monitor": null,
+        "headset": {
+          "brand": "Razer",
+          "model": "Hammerhead Pro V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Hammerhead Pro V2",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Razer",
+          "model": "Gigantus V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Gigantus V2",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "lucid",
+      "name": "Lucid",
+      "team": "dplus",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Lucid",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "luon",
+      "name": "Luon",
+      "team": "sk-gaming",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Luon",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "lwx",
+      "name": "Lwx",
+      "team": "royal-never-give-up",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Lwx",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "lyncas",
+      "name": "Lyncas",
+      "team": "team-vitality",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Lyncas",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "mark-chinese-player",
+      "name": "Mark",
+      "team": "team-we",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Mark_(Chinese_player)",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "markoon",
+      "name": "Markoon",
+      "team": "rogue",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Markoon",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "mask",
+      "name": "Mask",
+      "team": "immortals",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Mask",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "massu",
+      "name": "Massu",
+      "team": "flyquest",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Massu",
+      "gear": {
+        "mouse": {
+          "brand": "Razer",
+          "model": "Deathadder V2 Pro",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Deathadder V2 Pro",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Logitech",
+          "model": "G512",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G512",
+          "site": "prosettings"
+        },
+        "monitor": null,
+        "headset": null,
+        "mousepad": {
+          "brand": "Razer",
+          "model": "Strider",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Strider",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20241007104808/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-10-07",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-10-07"
+    },
+    {
+      "id": "meech",
+      "name": "Meech",
+      "team": "100-thieves",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Meech",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "meiko",
+      "name": "Meiko",
+      "team": "top-esports",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Meiko",
+      "gear": {
+        "mouse": {
+          "brand": "Razer",
+          "model": "Viper 8KHz",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Viper 8KHz",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Razer",
+          "model": "Huntsman Essential",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Huntsman Essential",
+          "site": "prosettings"
+        },
+        "monitor": null,
+        "headset": {
+          "brand": "Razer",
+          "model": "Kraken Kitty",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Kraken Kitty",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Razer",
+          "model": "Gigantus V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Gigantus V2",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "meteor",
+      "name": "Meteor",
+      "team": "lgd-gaming",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Meteor",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "mikyx",
+      "name": "Mikyx",
+      "team": "g2-esports",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Mikyx",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G703",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G703",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Logitech",
+          "model": "G Pro X Keyboard",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro X Keyboard",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "AOC",
+          "model": "AG251FZ2E",
+          "color": null,
+          "edition": null,
+          "rawName": "AOC AG251FZ2E",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "Logitech",
+          "model": "G433",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G433",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Logitech",
+          "model": "G640",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G640 Original",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "milkyway",
+      "name": "Milkyway",
+      "team": "funplus-phoenix",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Milkyway",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "ming",
+      "name": "Ming",
+      "team": "royal-never-give-up",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Ming",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "missing",
+      "name": "MISSING",
+      "team": "jd-gaming",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/MISSING",
+      "gear": {
+        "mouse": {
+          "brand": "SteelSeries",
+          "model": "Sensei RAW",
+          "color": null,
+          "edition": null,
+          "rawName": "SteelSeries Sensei RAW",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Razer",
+          "model": "Huntsman V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Huntsman V2",
+          "site": "prosettings"
+        },
+        "monitor": null,
+        "headset": {
+          "brand": "Razer",
+          "model": "BlackShark V2 Pro",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Razer BlackShark V2 Pro Black",
+          "site": "prosettings"
+        },
+        "mousepad": null
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "monki",
+      "name": "Monki",
+      "team": "edward-gaming",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Monki",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "morgan",
+      "name": "Morgan",
+      "team": "brion",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Morgan",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "myrwn",
+      "name": "Myrwn",
+      "team": "mad-lions-koi",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Myrwn",
+      "gear": {
+        "mouse": {
+          "brand": "Razer",
+          "model": "Viper V3 Pro",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Razer Viper V3 Pro Black",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Razer",
+          "model": "Huntsman V3 Pro TKL",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Razer Huntsman V3 Pro TKL Black",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "Lenovo",
+          "model": "Legion Y25-30",
+          "color": null,
+          "edition": null,
+          "rawName": "Lenovo Legion Y25-30",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "Razer",
+          "model": "BlackShark V2 Pro",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Razer BlackShark V2 Pro Black",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Razer",
+          "model": "Gigantus V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Gigantus V2",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "naiyou",
+      "name": "naiyou",
+      "team": "rare-atom",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/naiyou",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "neny",
+      "name": "neny",
+      "team": "invictus-gaming",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/neny",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "niket",
+      "name": "Niket",
+      "team": "ultra-prime",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Niket",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "nisqy",
+      "name": "Nisqy",
+      "team": "sk-gaming",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Nisqy",
+      "gear": {
+        "mouse": {
+          "brand": "Razer",
+          "model": "Viper V2 Pro",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Razer Viper V2 Pro Black",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Razer",
+          "model": "Huntsman V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Huntsman V2",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "Alienware",
+          "model": "AW2518H",
+          "color": null,
+          "edition": null,
+          "rawName": "Alienware AW2518H",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "Razer",
+          "model": "BlackShark V2 Pro",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Razer BlackShark V2 Pro Black",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Razer",
+          "model": "Gigantus V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Gigantus V2",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "noah",
+      "name": "Noah",
+      "team": "fnatic",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Noah",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "nuc",
+      "name": "nuc",
+      "team": "team-bds",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/nuc",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "odoamne",
+      "name": "Odoamne",
+      "team": "giantx",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Odoamne",
+      "gear": {
+        "mouse": {
+          "brand": "Corsair",
+          "model": "M65 RGB Elite",
+          "color": null,
+          "edition": null,
+          "rawName": "Corsair M65 RGB Elite",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Corsair",
+          "model": "K70 RGB MK.2",
+          "color": null,
+          "edition": null,
+          "rawName": "Corsair K70 RGB MK.2",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "Alienware",
+          "model": "AW2518H",
+          "color": null,
+          "edition": null,
+          "rawName": "Alienware AW2518H",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "Razer",
+          "model": "BlackShark V2 Pro",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Razer BlackShark V2 Pro Black",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Logitech",
+          "model": "G640",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G640 Original",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "olleh",
+      "name": "Olleh",
+      "team": "immortals",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Olleh",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "on",
+      "name": "ON",
+      "team": "bilibili-gaming",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/ON",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "oner",
+      "name": "Oner",
+      "team": "t1",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Oner",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G Pro Wireless",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro Wireless",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Logitech",
+          "model": "G Pro X Keyboard",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro X Keyboard",
+          "site": "prosettings"
+        },
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "oscarinin",
+      "name": "Oscarinin",
+      "team": "fnatic",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Oscarinin",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "palafox",
+      "name": "Palafox",
+      "team": "nrg",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Palafox",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "patrik",
+      "name": "Patrik",
+      "team": "giantx",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Patrik",
+      "gear": {
+        "mouse": null,
+        "keyboard": {
+          "brand": "HyperX",
+          "model": "Alloy Origins Core",
+          "color": null,
+          "edition": null,
+          "rawName": "HyperX Alloy Origins Core",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "Alienware",
+          "model": "AW2521H",
+          "color": null,
+          "edition": null,
+          "rawName": "Alienware AW2521H",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "HyperX",
+          "model": "Cloud II",
+          "color": null,
+          "edition": null,
+          "rawName": "HyperX Cloud II",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "HyperX",
+          "model": "Fury",
+          "color": null,
+          "edition": "S Speed Edition",
+          "rawName": "HyperX Fury S Speed Edition",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "peach",
+      "name": "Peach",
+      "team": "giantx",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Peach",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "peanut",
+      "name": "Peanut",
+      "team": "hanwha-life-esports",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Peanut",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "perfect",
+      "name": "PerfecT",
+      "team": "kt-rolster",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/PerfecT",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "perkz",
+      "name": "Perkz",
+      "team": "team-heretics",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Perkz",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G403 HERO",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G403 HERO",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "HyperX",
+          "model": "Alloy Origins",
+          "color": null,
+          "edition": null,
+          "rawName": "HyperX Alloy Origins",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "Omen",
+          "model": "X25F",
+          "color": null,
+          "edition": null,
+          "rawName": "Omen X25F",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "Sennheiser",
+          "model": "GAME ONE",
+          "color": null,
+          "edition": null,
+          "rawName": "Sennheiser GAME ONE",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "HyperX",
+          "model": "Fury",
+          "color": null,
+          "edition": "S Speed Edition",
+          "rawName": "HyperX Fury S Speed Edition",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "peter-korean-player",
+      "name": "Peter",
+      "team": "nongshim-redforce",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Peter_(Korean_player)",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "peyz",
+      "name": "Peyz",
+      "team": "gen-g",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Peyz",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "photic",
+      "name": "Photic",
+      "team": "ninjas-in-pyjamas",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Photic",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "photon",
+      "name": "Photon",
+      "team": "team-vitality",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Photon",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "pleata",
+      "name": "Pleata",
+      "team": "drx",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Pleata",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "pollu",
+      "name": "Pollu",
+      "team": "brion",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Pollu",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "ppgod",
+      "name": "ppgod",
+      "team": "oh-my-god",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/ppgod",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "pyosik",
+      "name": "Pyosik",
+      "team": "kt-rolster",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Pyosik",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G Pro Wireless",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro Wireless",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Logitech",
+          "model": "G915 TKL",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G915 TKL Carbon",
+          "site": "prosettings"
+        },
+        "monitor": null,
+        "headset": {
+          "brand": "HyperX",
+          "model": "Cloud Flight",
+          "color": null,
+          "edition": null,
+          "rawName": "HyperX Cloud Flight S",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Logitech",
+          "model": "G PowerPlay",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G PowerPlay",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "qingtian",
+      "name": "Qingtian",
+      "team": "ultra-prime",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Qingtian",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "qiuqiu",
+      "name": "QiuQiu",
+      "team": "thundertalk-gaming",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/QiuQiu",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "quad",
+      "name": "Quad",
+      "team": "flyquest",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Quad",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G305",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G305",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Roccat",
+          "model": "Magma",
+          "color": null,
+          "edition": null,
+          "rawName": "Roccat Magma",
+          "site": "prosettings"
+        },
+        "monitor": null,
+        "headset": null,
+        "mousepad": {
+          "brand": "HyperX",
+          "model": "Fury",
+          "color": null,
+          "edition": null,
+          "rawName": "HyperX Fury S Pro XL",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20241007104808/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-10-07",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-10-07"
+    },
+    {
+      "id": "quid",
+      "name": "Quid",
+      "team": "100-thieves",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Quid",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "rahel",
+      "name": "Rahel",
+      "team": "sk-gaming",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Rahel",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "raptor",
+      "name": "Raptor",
+      "team": "fearx",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Raptor",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "rascal",
+      "name": "Rascal",
+      "team": "drx",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Rascal",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G903",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G903",
+          "site": "prosettings"
+        },
+        "keyboard": null,
+        "monitor": {
+          "brand": "ASUS",
+          "model": "ROG SWIFT PG258Q",
+          "color": null,
+          "edition": null,
+          "rawName": "ASUS ROG SWIFT PG258Q",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "ASTRO",
+          "model": "A50",
+          "color": null,
+          "edition": null,
+          "rawName": "ASTRO A50",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Logitech",
+          "model": "G640",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G640 Original",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "razork",
+      "name": "Razork",
+      "team": "fnatic",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Razork",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "rich-korean-player",
+      "name": "Rich",
+      "team": "dignitas",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Rich_(Korean_player)",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "river-korean-player",
+      "name": "River",
+      "team": "100-thieves",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/River_(Korean_player)",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "rookie",
+      "name": "Rookie",
+      "team": "ninjas-in-pyjamas",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Rookie",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "ruler",
+      "name": "Ruler",
+      "team": "jd-gaming",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Ruler",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G305",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G305",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Logitech",
+          "model": "G512",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G512",
+          "site": "prosettings"
+        },
+        "monitor": null,
+        "headset": {
+          "brand": "ASTRO",
+          "model": "A50",
+          "color": null,
+          "edition": null,
+          "rawName": "ASTRO A50",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Logitech",
+          "model": "G640",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G640 Original",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "saken",
+      "name": "Saken",
+      "team": "karmine-corp",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Saken",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "scout",
+      "name": "Scout",
+      "team": "lng-esports",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Scout",
+      "gear": {
+        "mouse": {
+          "brand": "Razer",
+          "model": "Viper 8KHz",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Viper 8KHz",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Razer",
+          "model": "Huntsman Elite",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Huntsman Elite",
+          "site": "prosettings"
+        },
+        "monitor": null,
+        "headset": {
+          "brand": "Razer",
+          "model": "BlackShark V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer BlackShark V2",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Razer",
+          "model": "Gigantus V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Gigantus V2",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "setab",
+      "name": "SeTab",
+      "team": "drx",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/SeTab",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "shanji",
+      "name": "shanji",
+      "team": "ninjas-in-pyjamas",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/shanji",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "shanks",
+      "name": "Shanks",
+      "team": "anyone-s-legend",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Shanks",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "shaoye",
+      "name": "Shaoye",
+      "team": "lgd-gaming",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Shaoye",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "sheo",
+      "name": "Sheo",
+      "team": "team-bds",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Sheo",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "shiauc",
+      "name": "ShiauC",
+      "team": "rare-atom",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/ShiauC",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "showmaker",
+      "name": "ShowMaker",
+      "team": "dplus",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/ShowMaker",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G Pro Gaming Mouse",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro Gaming Mouse",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Logitech",
+          "model": "G Pro Keyboard",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro Keyboard",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "ASUS",
+          "model": "TUF VG259QM",
+          "color": null,
+          "edition": null,
+          "rawName": "ASUS TUF VG259QM",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "ASTRO",
+          "model": "A50",
+          "color": null,
+          "edition": null,
+          "rawName": "ASTRO A50",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Logitech",
+          "model": "G640",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G640 Original",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "sniper",
+      "name": "Sniper",
+      "team": "100-thieves",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Sniper",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "solokill",
+      "name": "Solokill",
+      "team": "edward-gaming",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Solokill",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "spica",
+      "name": "Spica",
+      "team": "dignitas",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Spica",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G502 HERO",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G502 HERO",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Logitech",
+          "model": "G Pro X Keyboard",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro X Keyboard",
+          "site": "prosettings"
+        },
+        "monitor": null,
+        "headset": {
+          "brand": "Logitech",
+          "model": "G Pro X Wireless Headset",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro X Wireless Headset",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Logitech",
+          "model": "G640",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G640 Original",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "sponge",
+      "name": "Sponge",
+      "team": "drx",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Sponge",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "starry",
+      "name": "Starry",
+      "team": "oh-my-god",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Starry",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "stay",
+      "name": "Stay",
+      "team": "team-we",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Stay",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "supa",
+      "name": "Supa",
+      "team": "mad-lions-koi",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Supa",
+      "gear": {
+        "mouse": {
+          "brand": "Razer",
+          "model": "Viper V2 Pro",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Razer Viper V2 Pro Black",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Razer",
+          "model": "Huntsman V3 Pro TKL",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Razer Huntsman V3 Pro TKL Black",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "Lenovo",
+          "model": "Legion Y25-30",
+          "color": null,
+          "edition": null,
+          "rawName": "Lenovo Legion Y25-30",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "Razer",
+          "model": "BlackShark V2 Pro",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Razer BlackShark V2 Pro Black",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Razer",
+          "model": "Gigantus V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Gigantus V2",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "sylvie",
+      "name": "Sylvie",
+      "team": "nongshim-redforce",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Sylvie",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "szygenda",
+      "name": "Szygenda",
+      "team": "rogue",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Szygenda",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "tactical",
+      "name": "Tactical",
+      "team": "immortals",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Tactical",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G703",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G703",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Logitech",
+          "model": "G513",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G513",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "Alienware",
+          "model": "AW2521H",
+          "color": null,
+          "edition": null,
+          "rawName": "Alienware AW2521H",
+          "site": "prosettings"
+        },
+        "headset": null,
+        "mousepad": {
+          "brand": "Logitech",
+          "model": "G PowerPlay",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G PowerPlay",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "tangyuan",
+      "name": "Tangyuan",
+      "team": "royal-never-give-up",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Tangyuan",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "targamas",
+      "name": "Targamas",
+      "team": "karmine-corp",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Targamas",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "tarzan",
+      "name": "Tarzan",
+      "team": "weibo-gaming",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Tarzan",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G Pro Wireless",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro Wireless",
+          "site": "prosettings"
+        },
+        "keyboard": null,
+        "monitor": null,
+        "headset": {
+          "brand": "Razer",
+          "model": "Hammerhead Pro V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Hammerhead Pro V2",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Razer",
+          "model": "Gigantus V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Gigantus V2",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "teddy",
+      "name": "Teddy",
+      "team": "drx",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Teddy",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "th3antonio",
+      "name": "Th3Antonio",
+      "team": "giantx",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Th3Antonio",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "thanatos",
+      "name": "Thanatos",
+      "team": "cloud9",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Thanatos",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "thesnake",
+      "name": "Thesnake",
+      "team": "edward-gaming",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Thesnake",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "tian",
+      "name": "Tian",
+      "team": "top-esports",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Tian",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "tianzhen",
+      "name": "Tianzhen",
+      "team": "oh-my-god",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Tianzhen",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "tomo",
+      "name": "Tomo",
+      "team": "100-thieves",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Tomo",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "trymbi",
+      "name": "Trymbi",
+      "team": "team-heretics",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Trymbi",
+      "gear": {
+        "mouse": {
+          "brand": "Razer",
+          "model": "Viper V2 Pro",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Razer Viper V2 Pro Black",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Logitech",
+          "model": "G513",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G513",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "Alienware",
+          "model": "AW2518H",
+          "color": null,
+          "edition": null,
+          "rawName": "Alienware AW2518H",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "Razer",
+          "model": "BlackShark V2 Pro",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Razer BlackShark V2 Pro Black",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Razer",
+          "model": "Gigantus",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Gigantus",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "ucal",
+      "name": "ucal",
+      "team": "thundertalk-gaming",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/ucal",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "umti",
+      "name": "UmTi",
+      "team": "team-liquid",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/UmTi",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "upset",
+      "name": "Upset",
+      "team": "karmine-corp",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Upset",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G Pro Wireless",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro Wireless",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Fnatic",
+          "model": "miniSTREAK",
+          "color": null,
+          "edition": null,
+          "rawName": "Fnatic miniSTREAK",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "Alienware",
+          "model": "AW2518H",
+          "color": null,
+          "edition": null,
+          "rawName": "Alienware AW2518H",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "Fnatic",
+          "model": "REACT",
+          "color": null,
+          "edition": null,
+          "rawName": "Fnatic REACT",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Fnatic",
+          "model": "DASH",
+          "color": null,
+          "edition": null,
+          "rawName": "Fnatic DASH",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "vampire",
+      "name": "Vampire",
+      "team": "invictus-gaming",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Vampire",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "vetheo",
+      "name": "Vetheo",
+      "team": "team-vitality",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Vetheo",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "vicla",
+      "name": "VicLa",
+      "team": "rare-atom",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/VicLa",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "viper-korean-player",
+      "name": "Viper",
+      "team": "hanwha-life-esports",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Viper_(Korean_player)",
+      "gear": {
+        "mouse": {
+          "brand": "Razer",
+          "model": "Viper V2 Pro",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Razer Viper V2 Pro Black",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Razer",
+          "model": "Huntsman V2 TKL",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Huntsman V2 TKL",
+          "site": "prosettings"
+        },
+        "monitor": null,
+        "headset": {
+          "brand": "Razer",
+          "model": "BlackShark V2 Pro",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Razer BlackShark V2 Pro Black",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Razer",
+          "model": "Gigantus V2",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Gigantus V2",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "vladi",
+      "name": "Vladi",
+      "team": "karmine-corp",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Vladi",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "vulcan",
+      "name": "Vulcan",
+      "team": "cloud9",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Vulcan",
+      "gear": {
+        "mouse": null,
+        "keyboard": {
+          "brand": "HyperX",
+          "model": "Alloy Origins",
+          "color": null,
+          "edition": null,
+          "rawName": "HyperX Alloy Origins",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "Omen",
+          "model": "X25F",
+          "color": null,
+          "edition": null,
+          "rawName": "Omen X25F",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "Sennheiser",
+          "model": "GAME ONE",
+          "color": null,
+          "edition": null,
+          "rawName": "Sennheiser GAME ONE",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "HyperX",
+          "model": "Fury",
+          "color": null,
+          "edition": "S Speed Edition",
+          "rawName": "HyperX Fury S Speed Edition",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "wayward",
+      "name": "Wayward",
+      "team": "team-we",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Wayward",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "wei",
+      "name": "Wei",
+      "team": "bilibili-gaming",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Wei",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "weiwei",
+      "name": "Weiwei",
+      "team": "lng-esports",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Weiwei",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "wen-chinese-player",
+      "name": "Wen",
+      "team": "invictus-gaming",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Wen_(Chinese_player)",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "willer",
+      "name": "Willer",
+      "team": "fearx",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Willer",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "wink",
+      "name": "Wink",
+      "team": "edward-gaming",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Wink",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "wunder",
+      "name": "Wunder",
+      "team": "team-heretics",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Wunder",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G Pro X Superlight",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Logitech G Pro X Superlight Black",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Logitech",
+          "model": "G Pro X Keyboard",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro X Keyboard",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "AOC",
+          "model": "AG251FZ2E",
+          "color": null,
+          "edition": null,
+          "rawName": "AOC AG251FZ2E",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "Logitech",
+          "model": "G Pro X Wireless Headset",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro X Wireless Headset",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Logitech",
+          "model": "G640",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G640 Original",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "xiaofang",
+      "name": "Xiaofang",
+      "team": "oh-my-god",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Xiaofang",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "xiaohao",
+      "name": "Xiaohao",
+      "team": "rare-atom",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Xiaohao",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "xiaohu",
+      "name": "Xiaohu",
+      "team": "weibo-gaming",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Xiaohu",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "xiaolaohu",
+      "name": "xiaolaohu",
+      "team": "funplus-phoenix",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/xiaolaohu",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "xiaoxu",
+      "name": "Xiaoxu",
+      "team": "rare-atom",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Xiaoxu",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "xun",
+      "name": "Xun",
+      "team": "bilibili-gaming",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Xun",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "xzz",
+      "name": "Xzz",
+      "team": "royal-never-give-up",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Xzz",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "yagao",
+      "name": "Yagao",
+      "team": "jd-gaming",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Yagao",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "yanxiang",
+      "name": "Yanxiang",
+      "team": "team-we",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Yanxiang",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "yeon",
+      "name": "Yeon",
+      "team": "team-liquid",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Yeon",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "yike",
+      "name": "Yike",
+      "team": "g2-esports",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Yike",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "youngjae",
+      "name": "Youngjae",
+      "team": "brion",
+      "role": "Jungle",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Youngjae",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "yskm",
+      "name": "YSKM",
+      "team": "invictus-gaming",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/YSKM",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "yuekai",
+      "name": "Yuekai",
+      "team": "ultra-prime",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Yuekai",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "zdz",
+      "name": "Zdz",
+      "team": "funplus-phoenix",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Zdz",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "zeka",
+      "name": "Zeka",
+      "team": "hanwha-life-esports",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Zeka",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "zeus",
+      "name": "Zeus",
+      "team": "t1",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Zeus",
+      "gear": {
+        "mouse": {
+          "brand": "Razer",
+          "model": "Deathadder V2 Pro",
+          "color": null,
+          "edition": null,
+          "rawName": "Razer Deathadder V2 Pro",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Corsair",
+          "model": "K70 RGB MK.2",
+          "color": null,
+          "edition": null,
+          "rawName": "Corsair K70 RGB MK.2",
+          "site": "prosettings"
+        },
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "zeyzal",
+      "name": "Zeyzal",
+      "team": "shopify-rebellion",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Zeyzal",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "zhuo",
+      "name": "Zhuo",
+      "team": "ninjas-in-pyjamas",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Zhuo",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "zika",
+      "name": "Zika",
+      "team": "lng-esports",
+      "role": "Top",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Zika",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "zoelys",
+      "name": "Zoelys",
+      "team": "rogue",
+      "role": "Support",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Zoelys",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "zven",
+      "name": "Zven",
+      "team": "dignitas",
+      "role": "Bot",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Zven",
+      "gear": {
+        "mouse": null,
+        "keyboard": {
+          "brand": "HyperX",
+          "model": "Alloy Origins",
+          "color": null,
+          "edition": null,
+          "rawName": "HyperX Alloy Origins",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "Omen",
+          "model": "X25F",
+          "color": null,
+          "edition": null,
+          "rawName": "Omen X25F",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "Sennheiser",
+          "model": "GAME ONE",
+          "color": null,
+          "edition": null,
+          "rawName": "Sennheiser GAME ONE",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "HyperX",
+          "model": "Fury",
+          "color": null,
+          "edition": "S Speed Edition",
+          "rawName": "HyperX Fury S Speed Edition",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20240909153308/https://prosettings.net/lists/league-of-legends/"
+      ],
+      "gearUpdatedAt": "2024-09-09",
+      "gearFromSeason": null,
+      "gearCheckedAt": "2024-09-09"
+    },
+    {
+      "id": "zwyroo",
+      "name": "Zwyroo",
+      "team": "team-heretics",
+      "role": "Mid",
+      "liquipedia": "https://liquipedia.net/leagueoflegends/Zwyroo",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    }
+  ]
+}

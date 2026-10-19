@@ -1,0 +1,48 @@
+{
+  "_comment": "게임별 대상 대회(Liquipedia 문서 제목). 시즌은 대회 시작일(sdate) 연도로 다시 계산됨. 새 대회가 생기면 여기에 추가.",
+  "lol": {
+    "wiki": "leagueoflegends",
+    "competitions": {
+      "2023": ["LCK/2023/Spring", "LCK/2023/Summer", "LPL/2023/Spring", "LPL/2023/Summer", "LEC/2023/Winter", "LEC/2023/Spring", "LEC/2023/Summer", "LCS/2023/Spring", "LCS/2023/Summer"],
+      "2024": ["LCK/2024/Spring", "LCK/2024/Summer", "LPL/2024/Spring", "LPL/2024/Summer", "LEC/2024/Winter", "LEC/2024/Spring", "LEC/2024/Summer", "LCS/2024/Spring", "LCS/2024/Summer"],
+      "2025": ["LCK/2025/Cup", "LCK/2025", "LPL/2025/Split 1", "LPL/2025/Split 2", "LPL/2025/Split 3", "LEC/2025/Winter", "LEC/2025/Spring", "LEC/2025/Summer", "LTA/2025/Split 1/North", "LTA/2025/Split 2/North", "LTA/2025/Split 3/North"],
+      "2026": ["LCK/2026/Cup", "LCK/2026", "LPL/2026/Split 1", "LPL/2026/Split 2", "LPL/2026/Split 3", "LEC/2026/Versus", "LEC/2026/Spring", "LEC/2026/Summer", "LCS/2026/Lock-In", "LCS/2026/Spring", "LCS/2026/Summer"]
+    }
+  },
+  "valorant": {
+    "wiki": "valorant",
+    "competitions": {
+      "2023": ["VCT/2023/Americas League", "VCT/2023/EMEA League", "VCT/2023/Pacific League"],
+      "2024": ["VCT/2024/Americas League/Kickoff", "VCT/2024/Americas League/Stage 1", "VCT/2024/Americas League/Stage 2", "VCT/2024/EMEA League/Kickoff", "VCT/2024/EMEA League/Stage 1", "VCT/2024/EMEA League/Stage 2", "VCT/2024/Pacific League/Kickoff", "VCT/2024/Pacific League/Stage 1", "VCT/2024/Pacific League/Stage 2", "VCT/2024/China League/Kickoff", "VCT/2024/China League/Stage 1", "VCT/2024/China League/Stage 2"],
+      "2025": ["VCT/2025/Americas League/Kickoff", "VCT/2025/Americas League/Stage 1", "VCT/2025/Americas League/Stage 2", "VCT/2025/EMEA League/Kickoff", "VCT/2025/EMEA League/Stage 1", "VCT/2025/EMEA League/Stage 2", "VCT/2025/Pacific League/Kickoff", "VCT/2025/Pacific League/Stage 1", "VCT/2025/Pacific League/Stage 2", "VCT/2025/China League/Kickoff", "VCT/2025/China League/Stage 1", "VCT/2025/China League/Stage 2"],
+      "2026": ["VCT/2026/Americas League/Kickoff", "VCT/2026/Americas League/Stage 1", "VCT/2026/Americas League/Stage 2", "VCT/2026/EMEA League/Kickoff", "VCT/2026/EMEA League/Stage 1", "VCT/2026/EMEA League/Stage 2", "VCT/2026/Pacific League/Kickoff", "VCT/2026/Pacific League/Stage 1", "VCT/2026/Pacific League/Stage 2", "VCT/2026/China League/Kickoff", "VCT/2026/China League/Stage 1", "VCT/2026/China League/Stage 2"]
+    }
+  },
+  "pubg": {
+    "wiki": "pubg",
+    "competitions": {
+      "2023": ["PUBG Global Series/2023/1", "PUBG Global Series/2023/2", "PUBG Nations Cup/2023", "PUBG Global Championship/2023"],
+      "2024": ["PUBG Global Series/2024/3", "PUBG Global Series/2024/4", "PUBG Global Series/2024/5", "PUBG Global Series/2024/6", "PUBG Nations Cup/2024", "PUBG Global Championship/2024"],
+      "2025": ["PUBG Global Series/2025/7", "PUBG Global Series/2025/8", "PUBG Global Series/2025/9", "PUBG Global Series/2025/10", "PUBG Nations Cup/2025", "PUBG Global Championship/2025"],
+      "2026": ["PUBG Global Series/2026/Circuit 1/Series 1", "PUBG Global Series/2026/Circuit 1/Series 2", "PUBG Global Series/2026/Circuit 1/Series Final", "PUBG Global Series/2026/Circuit 2/Series 1", "PUBG Global Series/2026/Circuit 2/Series 2", "PUBG Global Series/2026/Circuit 2/Series Final", "PUBG Global Series/2026/Circuit 3/Series 1", "PUBG Global Series/2026/Circuit 3/Series 2", "PUBG Global Series/2026/Circuit 3/Series Final", "PUBG Global Series/2026/Circuit 4/Series 1", "PUBG Global Series/2026/Circuit 4/Series 2", "PUBG Global Series/2026/Circuit 4/Series Final", "PUBG Nations Cup/2026", "PUBG Global Championship/2026"]
+    }
+  },
+  "cs2": {
+    "wiki": "counterstrike",
+    "competitions": {
+      "2023": ["BLAST/Major/2023/Paris"],
+      "2024": ["PGL/2024/Copenhagen", "Perfect World/Major/2024/Shanghai"],
+      "2025": ["BLAST/Major/2025/Austin", "StarLadder/2025/Major"],
+      "2026": ["Intel Extreme Masters/2026/Cologne", "PGL/2026/Singapore"]
+    },
+    "gameVersion": { "2023": "csgo" }
+  },
+  "overwatch": {
+    "wiki": "overwatch",
+    "competitions": {
+      "2024": ["Overwatch Champions Series/2024/North America/Stage 1", "Overwatch Champions Series/2024/North America/Stage 2", "Overwatch Champions Series/2024/North America/Stage 3", "Overwatch Champions Series/2024/North America/Stage 4", "Overwatch Champions Series/2024/EMEA/Stage 1", "Overwatch Champions Series/2024/EMEA/Stage 2", "Overwatch Champions Series/2024/EMEA/Stage 3", "Overwatch Champions Series/2024/EMEA/Stage 4", "Overwatch Champions Series/2024/Asia/Stage 1/Korea", "Overwatch Champions Series/2024/Asia/Stage 1/Japan", "Overwatch Champions Series/2024/Asia/Stage 1/Pacific", "Overwatch Champions Series/2024/Asia/Stage 2/Korea", "Overwatch Champions Series/2024/Asia/Stage 2/Japan", "Overwatch Champions Series/2024/Asia/Stage 2/Pacific", "Overwatch Champions Series/2024/World Finals"],
+      "2025": ["Overwatch Champions Series/2025/NA/Stage 1", "Overwatch Champions Series/2025/NA/Stage 2", "Overwatch Champions Series/2025/NA/Stage 3", "Overwatch Champions Series/2025/EMEA/Stage 1", "Overwatch Champions Series/2025/EMEA/Stage 2", "Overwatch Champions Series/2025/EMEA/Stage 3", "Overwatch Champions Series/2025/China/Stage 1", "Overwatch Champions Series/2025/China/Stage 2", "Overwatch Champions Series/2025/China/Stage 3", "Overwatch Champions Series/2025/Asia/Stage 1/Korea", "Overwatch Champions Series/2025/Asia/Stage 1/Japan", "Overwatch Champions Series/2025/Asia/Stage 1/Pacific", "Overwatch Champions Series/2025/Asia/Stage 2/Korea", "Overwatch Champions Series/2025/Asia/Stage 2/Japan", "Overwatch Champions Series/2025/Asia/Stage 2/Pacific", "Overwatch Champions Series/2025/Asia/Stage 3/Korea", "Overwatch Champions Series/2025/Asia/Stage 3/Japan", "Overwatch Champions Series/2025/Asia/Stage 3/Pacific", "Overwatch Champions Series/2025/Midseason Championship", "Overwatch Champions Series/2025/World Finals"],
+      "2026": ["Overwatch Champions Series/2026/NA/Stage 1", "Overwatch Champions Series/2026/NA/Stage 2", "Overwatch Champions Series/2026/NA/Stage 3", "Overwatch Champions Series/2026/EMEA/Stage 1", "Overwatch Champions Series/2026/EMEA/Stage 2", "Overwatch Champions Series/2026/EMEA/Stage 3", "Overwatch Champions Series/2026/China/Stage 1", "Overwatch Champions Series/2026/China/Stage 2", "Overwatch Champions Series/2026/China/Stage 3", "Overwatch Champions Series/2026/Asia/Stage 1/Korea", "Overwatch Champions Series/2026/Asia/Stage 1/Japan", "Overwatch Champions Series/2026/Asia/Stage 1/Pacific", "Overwatch Champions Series/2026/Asia/Stage 2/Korea", "Overwatch Champions Series/2026/Asia/Stage 2/Japan", "Overwatch Champions Series/2026/Asia/Stage 2/Pacific", "Overwatch Champions Series/2026/Asia/Stage 3/Korea", "Overwatch Champions Series/2026/Asia/Stage 3/Japan", "Overwatch Champions Series/2026/Asia/Stage 3/Pacific", "Overwatch Champions Series/2026/Midseason Championship", "Overwatch Champions Series/2026/World Finals"]
+    }
+  }
+}

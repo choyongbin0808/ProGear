@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>장비 사용 순위 · ProGear</title>
+  <meta name="description" content="게임별, 시즌별 프로 선수 장비 사용 순위">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
+  <link rel="stylesheet" href="css/style.css?v=2026101904">
+</head>
+<body>
+  <header id="site-header"></header>
+
+  <main class="container">
+    <div class="page-head">
+      <nav class="game-tabs" id="game-tabs" aria-label="게임 선택"></nav>
+      <p class="eyebrow">Equipment Ranking</p>
+      <div class="page-title-row">
+        <h1 id="page-title">장비 사용 순위</h1>
+        <div class="controls">
+          <div class="segmented" id="gear-tabs" role="tablist" aria-label="장비 종류"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="ranking-layout">
+      <section class="panel" aria-labelledby="list-title">
+        <div class="panel-bar">
+          <span id="list-title"></span>
+          <strong id="list-total"></strong>
+        </div>
+        <div class="panel-meta" id="list-meta" hidden></div>
+        <div id="rank-body"></div>
+      </section>
+
+      <aside class="panel detail" id="detail" aria-live="polite"></aside>
+    </div>
+  </main>
+
+  <footer id="site-footer"></footer>
+
+  <script src="js/config.js?v=2026101904"></script>
+  <script src="js/ui.js?v=2026101904"></script>
+  <script src="js/data.js?v=2026101904"></script>
+  <script src="js/ranking.js?v=2026101904"></script>
+  <script src="js/ranking-page.js?v=2026101904"></script>
+</body>
+</html>

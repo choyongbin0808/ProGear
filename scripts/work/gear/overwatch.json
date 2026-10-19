@@ -1,0 +1,2084 @@
+{
+  "game": "overwatch",
+  "collectedAt": "2026-10-19",
+  "seasons": {
+    "2024": {
+      "sources": [
+        {
+          "site": "ProSettings.net (Wayback Machine)",
+          "url": "https://web.archive.org/web/20241120210433/https://prosettings.net/lists/overwatch-2/",
+          "date": "2024-11-20",
+          "fromSeason": null
+        },
+        {
+          "site": "ProSettings.net (Wayback Machine, 2023 시즌 정보)",
+          "url": "https://web.archive.org/web/20231112201017/https://prosettings.net/lists/overwatch-2/",
+          "date": "2023-11-12",
+          "fromSeason": 2023
+        },
+        {
+          "site": "ProSettings.net (Wayback Machine, 2023 시즌 정보)",
+          "url": "https://web.archive.org/web/20230129023007/https://prosettings.net/lists/overwatch-2/",
+          "date": "2023-01-29",
+          "fromSeason": 2023
+        },
+        {
+          "site": "EsportsMice",
+          "url": "https://esportsmice.com/games/overwatch-2",
+          "date": null
+        }
+      ],
+      "players": {
+        "chiyo": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Razer BlackWidow V3 Pro",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Razer BlackShark V2 Pro Black",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "SteelSeries QcK Edge",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241120210433/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2024-11-20",
+          "fromSeason": null
+        },
+        "danteh": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro Wireless",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G Pro Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "HP OMEN 24.5″",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Turtle Beach Elite Atlas Pro",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Logitech G640 Original",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241120210433/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2024-11-20",
+          "fromSeason": null
+        },
+        "decay": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro Wireless",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "HP OMEN 24.5″",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Corsair MM250",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241120210433/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2024-11-20",
+          "fromSeason": null
+        },
+        "fielder": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer Viper V2 Pro Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Razer Huntsman TE",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Razer BlackShark V2 Pro Black",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Razer Gigantus",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241120210433/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2024-11-20",
+          "fromSeason": null
+        },
+        "hanbin": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer Viper V2 Pro Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Razer Huntsman TE",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Razer BlackShark V2 Pro Black",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Razer Gigantus V2",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241120210433/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2024-11-20",
+          "fromSeason": null
+        },
+        "happy": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G203",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Custom Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "HP OMEN 24.5″",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "SteelSeries QcK Heavy",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241120210433/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2024-11-20",
+          "fromSeason": null
+        },
+        "izayaki": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Leopold FC750R",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "HP OMEN 24.5″",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Razer Kraken TE",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Logitech G640 Original",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241120210433/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2024-11-20",
+          "fromSeason": null
+        },
+        "jay3": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G403 HERO",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "HyperX Alloy FPS Pro",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ASUS ROG SWIFT PG258Q",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Corsair Virtuoso",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Corsair MM200",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241120210433/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2024-11-20",
+          "fromSeason": null
+        },
+        "kalios": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G Pro X Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ASUS ROG STRIX XG248Q",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Corsair Void Pro",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "SteelSeries QcK Heavy",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241120210433/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2024-11-20",
+          "fromSeason": null
+        },
+        "lip": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE U2",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Razer Huntsman V3 Pro TKL Black",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "HP OMEN 24.5″",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Sennheiser GAME ZERO",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "SteelSeries QcK Heavy",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241120210433/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2024-11-20",
+          "fromSeason": null
+        },
+        "ml7": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer DeathAdder Essential",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Corsair K70 RGB MK.2",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546K",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Corsair MM500",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241120210433/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2024-11-20",
+          "fromSeason": null
+        },
+        "necros": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G Pro Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ASUS VG248QE",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Sennheiser GAME ONE",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Artisan Hayate Otsu Soft",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241120210433/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2024-11-20",
+          "fromSeason": null
+        },
+        "ryujehong": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE EC2-CW",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Corsair K70 RGB Pro",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2540",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Bose QuietComfort 20",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "SteelSeries QcK Heavy",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241120210433/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2024-11-20",
+          "fromSeason": null
+        },
+        "shu": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer Deathadder V3 Pro Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G Pro Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "HP OMEN 24.5″",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "HyperX Cloud Alpha Wireless",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241120210433/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2024-11-20",
+          "fromSeason": null
+        },
+        "smurf": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight White",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Custom Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "HP OMEN 24.5″",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Logitech G Pro X Wireless Headset",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241120210433/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2024-11-20",
+          "fromSeason": null
+        },
+        "stalk3r": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE EC2-CW",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Vortex Pok3r RGB",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ASUS ROG SWIFT PG258Q",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Sennheiser GAME ONE",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Artisan Ninja FX Zero Mid",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241120210433/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2024-11-20",
+          "fromSeason": null
+        },
+        "ta1yo": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE EC1-CW",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G Pro Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "HP OMEN 24.5″",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ESPTIGER Neon",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241120210433/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2024-11-20",
+          "fromSeason": null
+        },
+        "viol2t": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G403 HERO",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G Pro Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2540",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Sennheiser GSP 600",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Logitech G640 Original",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241120210433/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2024-11-20",
+          "fromSeason": null
+        },
+        "whoru": {
+          "gear": {
+            "mouse": {
+              "raw": "FinalMouse Air58 Ninja CBR",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "SteelSeries 6Gv2",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2540",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "HyperX Fury S Pro",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241120210433/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2024-11-20",
+          "fromSeason": null
+        },
+        "fate-british-player": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G903",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Razer Blackwidow Chroma TE V2",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "HP OMEN 24.5″",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Sennheiser GAME ZERO",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Razer Gigantus",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231112201017/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2023-11-12",
+          "fromSeason": 2023
+        },
+        "poko": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G703",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G Pro Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "HP OMEN 24.5″",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Sennheiser GAME ZERO",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Razer Goliathus Speed Cosmic",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231112201017/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2023-11-12",
+          "fromSeason": 2023
+        },
+        "shax": {
+          "gear": {
+            "mouse": {
+              "raw": "Finalmouse Ultralight 2",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Razer Blackwidow Chroma TE V2",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "HP OMEN 24.5″",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Razer Kraken TE",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Razer Gigantus V2",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231112201017/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2023-11-12",
+          "fromSeason": 2023
+        },
+        "benbest": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech MX518 Refresh",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "SteelSeries Apex M500",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "OMEN by HP 24.5\"",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "HyperX Cloud II",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20230129023007/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2023-01-29",
+          "fromSeason": 2023
+        },
+        "gator": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G703",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G Pro Mechanical Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "OMEN by HP 24.5\"",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20230129023007/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2023-01-29",
+          "fromSeason": 2023
+        },
+        "jake": {
+          "gear": {
+            "mouse": {
+              "raw": "Cooler Master MM710",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Custom Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "OMEN by HP 24.5\"",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "HyperX Cloud II",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Artisan Hien",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20230129023007/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2023-01-29",
+          "fromSeason": 2023
+        },
+        "lhcloudy": {
+          "gear": {
+            "mouse": {
+              "raw": "Xtrfy M3",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "ASUS ROG Claymore",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "OMEN by HP 24.5\"",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Xtrfy XTP1 ENCE Edition",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20230129023007/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2023-01-29",
+          "fromSeason": 2023
+        },
+        "masaa": {
+          "gear": {
+            "mouse": {
+              "raw": "Zowie EC1-B",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Corsair STRAFE",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "OMEN by HP 24.5\"",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "HyperX Cloud Alpha",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Roccat Kanga",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20230129023007/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2023-01-29",
+          "fromSeason": 2023
+        },
+        "nero": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G305",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G Pro Mechanical Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "OMEN by HP 24.5\"",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Logitech G640",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20230129023007/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2023-01-29",
+          "fromSeason": 2023
+        },
+        "kevster": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer Viper V2 Pro",
+              "site": "esportsmice"
+            }
+          },
+          "sources": [
+            "https://esportsmice.com/players/kevster"
+          ],
+          "updatedAt": null,
+          "fromSeason": null
+        },
+        "pelican": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer Viper V3 Pro",
+              "site": "esportsmice"
+            }
+          },
+          "sources": [
+            "https://esportsmice.com/players/pelican"
+          ],
+          "updatedAt": null,
+          "fromSeason": null
+        },
+        "proper": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer Viper V3 Pro",
+              "site": "esportsmice"
+            }
+          },
+          "sources": [
+            "https://esportsmice.com/players/proper"
+          ],
+          "updatedAt": null,
+          "fromSeason": null
+        }
+      }
+    },
+    "2025": {
+      "sources": [
+        {
+          "site": "ProSettings.net (Wayback Machine)",
+          "url": "https://web.archive.org/web/20251115082743/https://prosettings.net/lists/overwatch-2/",
+          "date": "2025-11-15",
+          "fromSeason": null
+        },
+        {
+          "site": "ProSettings.net (Wayback Machine)",
+          "url": "https://web.archive.org/web/20250418010005/https://prosettings.net/lists/overwatch-2/",
+          "date": "2025-04-18",
+          "fromSeason": null
+        },
+        {
+          "site": "ProSettings.net (Wayback Machine, 2023 시즌 정보)",
+          "url": "https://web.archive.org/web/20231112201017/https://prosettings.net/lists/overwatch-2/",
+          "date": "2023-11-12",
+          "fromSeason": 2023
+        },
+        {
+          "site": "ProSettings.net (Wayback Machine, 2023 시즌 정보)",
+          "url": "https://web.archive.org/web/20230129023007/https://prosettings.net/lists/overwatch-2/",
+          "date": "2023-01-29",
+          "fromSeason": 2023
+        },
+        {
+          "site": "EsportsMice",
+          "url": "https://esportsmice.com/games/overwatch-2",
+          "date": null
+        }
+      ],
+      "players": {
+        "ado": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ASUS ROG SWIFT PG259QN",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Artisan Ninja FX Zero XSoft Black",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20251115082743/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2025-11-15",
+          "fromSeason": null
+        },
+        "chiyo": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Razer BlackWidow V3 Pro",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Razer BlackShark V2 Pro Black",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "SteelSeries QcK Edge",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20251115082743/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2025-11-15",
+          "fromSeason": null
+        },
+        "edison": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer Basilisk Ultimate",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Razer Huntsman TE",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "HP OMEN 24.5″",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Razer BlackShark V2 Pro Black",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Razer Gigantus V2",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20251115082743/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2025-11-15",
+          "fromSeason": null
+        },
+        "fielder": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer Viper V2 Pro Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Razer Huntsman TE",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Razer BlackShark V2 Pro Black",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Razer Gigantus",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20251115082743/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2025-11-15",
+          "fromSeason": null
+        },
+        "hanbin": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer Viper V2 Pro Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Razer Huntsman TE",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Razer BlackShark V2 Pro Black",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Razer Gigantus V2",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20251115082743/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2025-11-15",
+          "fromSeason": null
+        },
+        "kalios": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G Pro X Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ASUS ROG STRIX XG248Q",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Corsair Void Pro",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "SteelSeries QcK Heavy",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20251115082743/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2025-11-15",
+          "fromSeason": null
+        },
+        "leave": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "HP OMEN 24.5″",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Razer Gigantus V2",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20251115082743/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2025-11-15",
+          "fromSeason": null
+        },
+        "lip": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight 2 White",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Razer Huntsman V3 Pro TKL Black",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "HP OMEN 24.5″",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Sennheiser GAME ZERO",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "SteelSeries QcK Heavy",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20251115082743/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2025-11-15",
+          "fromSeason": null
+        },
+        "ryujehong": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE EC2-CW",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Corsair K70 PRO TKL Black",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2540",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Corsair Virtuoso MAX",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "SteelSeries QcK Heavy",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20251115082743/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2025-11-15",
+          "fromSeason": null
+        },
+        "shu": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer DeathAdder V4 Pro Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G Pro Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "HP OMEN 24.5″",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "HyperX Cloud Alpha Wireless",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Artisan Hayate Otsu Soft Black",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20251115082743/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2025-11-15",
+          "fromSeason": null
+        },
+        "soon": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer Viper V3 Pro Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Razer Huntsman V3 Pro Mini Black",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2540K",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Razer BlackShark V2 Pro Black",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "WALLHACK MO-001",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20251115082743/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2025-11-15",
+          "fromSeason": null
+        },
+        "stalk3r": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight 2 Dex Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Vortex Pok3r RGB",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546K",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Sennheiser GAME ONE",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20251115082743/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2025-11-15",
+          "fromSeason": null
+        },
+        "viol2t": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer Viper V3 Pro Faker Edition",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G Pro Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2540",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Sennheiser GSP 600",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Artisan Ninja FX Zero Soft Black",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20251115082743/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2025-11-15",
+          "fromSeason": null
+        },
+        "whoru": {
+          "gear": {
+            "mouse": {
+              "raw": "FinalMouse Air58 Ninja CBR",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "SteelSeries 6Gv2",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2540",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "HyperX Fury S Pro",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20251115082743/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2025-11-15",
+          "fromSeason": null
+        },
+        "jinmu": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE EC2-B Divina Blue",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "HP OMEN 24.5″",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Razer Gigantus V2",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250418010005/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2025-04-18",
+          "fromSeason": null
+        },
+        "ans": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G305",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Razer Huntsman TE",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231112201017/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2023-11-12",
+          "fromSeason": 2023
+        },
+        "architect": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro Gaming Mouse",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G Pro Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "HP OMEN 24.5″",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Logitech G Pro X Headset",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Logitech G640 Original",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231112201017/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2023-11-12",
+          "fromSeason": 2023
+        },
+        "diya": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro Wireless",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "OMEN by HP 24.5\"",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20230129023007/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2023-01-29",
+          "fromSeason": 2023
+        },
+        "guxue": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G903",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Corsair K-70 RGB",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "OMEN by HP 24.5\"",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20230129023007/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2023-01-29",
+          "fromSeason": 2023
+        },
+        "twilight": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G903",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Razer BlackWidow Ultimate V2",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "OMEN by HP 24.5\"",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Sennheiser GSP 500",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Logitech G640",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20230129023007/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2023-01-29",
+          "fromSeason": 2023
+        },
+        "kevster": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer Viper V2 Pro",
+              "site": "esportsmice"
+            }
+          },
+          "sources": [
+            "https://esportsmice.com/players/kevster"
+          ],
+          "updatedAt": null,
+          "fromSeason": null
+        },
+        "kilo": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight 2",
+              "site": "esportsmice"
+            }
+          },
+          "sources": [
+            "https://esportsmice.com/players/kilo"
+          ],
+          "updatedAt": null,
+          "fromSeason": null
+        },
+        "pelican": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer Viper V3 Pro",
+              "site": "esportsmice"
+            }
+          },
+          "sources": [
+            "https://esportsmice.com/players/pelican"
+          ],
+          "updatedAt": null,
+          "fromSeason": null
+        },
+        "proper": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer Viper V3 Pro",
+              "site": "esportsmice"
+            }
+          },
+          "sources": [
+            "https://esportsmice.com/players/proper"
+          ],
+          "updatedAt": null,
+          "fromSeason": null
+        }
+      }
+    },
+    "2026": {
+      "sources": [
+        {
+          "site": "ProSettings.net",
+          "url": "https://prosettings.net/lists/overwatch/",
+          "date": "2026-10-19"
+        },
+        {
+          "site": "ProSettings.net (Wayback Machine, 2025 시즌 정보)",
+          "url": "https://web.archive.org/web/20250418010005/https://prosettings.net/lists/overwatch-2/",
+          "date": "2025-04-18",
+          "fromSeason": 2025
+        },
+        {
+          "site": "ProSettings.net (Wayback Machine, 2023 시즌 정보)",
+          "url": "https://web.archive.org/web/20231112201017/https://prosettings.net/lists/overwatch-2/",
+          "date": "2023-11-12",
+          "fromSeason": 2023
+        },
+        {
+          "site": "ProSettings.net (Wayback Machine, 2023 시즌 정보)",
+          "url": "https://web.archive.org/web/20230129023007/https://prosettings.net/lists/overwatch-2/",
+          "date": "2023-01-29",
+          "fromSeason": 2023
+        },
+        {
+          "site": "EsportsMice",
+          "url": "https://esportsmice.com/games/overwatch-2",
+          "date": "2026-10-19"
+        }
+      ],
+      "players": {
+        "chiyo": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Razer BlackWidow V3 Pro",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Razer BlackShark V2 Pro Black",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "SteelSeries QcK Edge",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://prosettings.net/players/chiyo/"
+          ],
+          "updatedAt": null
+        },
+        "edison": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer Basilisk Ultimate",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Razer Huntsman TE",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "HP OMEN 24.5″",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Razer BlackShark V2 Pro Black",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Razer Gigantus V2",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://prosettings.net/players/edison/"
+          ],
+          "updatedAt": null
+        },
+        "fielder": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer Viper V2 Pro Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Razer Huntsman TE",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Razer BlackShark V2 Pro Black",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Razer Gigantus",
+              "site": "prosettings"
+            }
+          },
+          "sources": [],
+          "updatedAt": null
+        },
+        "hanbin": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer Viper V2 Pro Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Razer Huntsman TE",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Razer BlackShark V2 Pro Black",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Razer Gigantus V2",
+              "site": "prosettings"
+            }
+          },
+          "sources": [],
+          "updatedAt": null
+        },
+        "kalios": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G Pro X Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ASUS ROG STRIX XG248Q",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Corsair Void Pro",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "SteelSeries QcK Heavy Black",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://prosettings.net/players/kalios/"
+          ],
+          "updatedAt": null
+        },
+        "leave": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "HP OMEN 24.5″",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Razer Gigantus V2",
+              "site": "prosettings"
+            }
+          },
+          "sources": [],
+          "updatedAt": null
+        },
+        "lip": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight 2 White",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Wooting 80HE Black",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "HP OMEN 24.5″",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Sennheiser GAME ZERO",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "SteelSeries QcK Performance Balance",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://prosettings.net/players/lip/"
+          ],
+          "updatedAt": null
+        },
+        "shu": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer DeathAdder V4 Pro Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Wooting 80HE Black",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "HP OMEN 24.5″",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "HyperX Cloud Alpha Wireless",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Artisan Hayate Otsu V2 XSoft Black",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://prosettings.net/players/shu/"
+          ],
+          "updatedAt": null
+        },
+        "soon": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer Viper V3 Pro Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Razer Huntsman V3 Pro Mini",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2540K",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Razer BlackShark V2 Pro Black",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "WALLHACK MO-001",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://prosettings.net/players/soon/"
+          ],
+          "updatedAt": null
+        },
+        "stalk3r": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight 2 Dex Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Vortex Pok3r RGB",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546K",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Sennheiser GAME ONE",
+              "site": "prosettings"
+            }
+          },
+          "sources": [],
+          "updatedAt": null
+        },
+        "sugarfree": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight 2 Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Wooting 60HE+",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "ASTRO A50",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Logitech G640 Original",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://prosettings.net/players/sugarfree/"
+          ],
+          "updatedAt": null
+        },
+        "ta1yo": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE EC1-CW",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G Pro Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "HP OMEN 24.5″",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ESPTIGER Neon",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://prosettings.net/players/ta1yo/"
+          ],
+          "updatedAt": null
+        },
+        "ultraviolet": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer Viper V3 Pro Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Razer Huntsman V3 Pro TKL 8KHz Green",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ASUS ROG SWIFT PG258Q",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Razer BlackShark V2 Pro Black",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "SteelSeries QcK Performance Balance",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://prosettings.net/players/ultraviolet/"
+          ],
+          "updatedAt": null
+        },
+        "viol2t": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight 2c Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "SteelSeries Apex Pro TKL Gen 3 Black",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2540",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Sennheiser GSP 600",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Artisan Ninja FX Zero Mid Orange",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://prosettings.net/players/viol2t/"
+          ],
+          "updatedAt": null
+        },
+        "heesu": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro Wireless",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Leopold FC750R",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "HP OMEN 24.5″",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "EPOS GSP 500",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "SteelSeries QcK Heavy",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250418010005/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2025-04-18",
+          "fromSeason": 2025
+        },
+        "smurf": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight White",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Custom Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "HP OMEN 24.5″",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Logitech G Pro X Wireless Headset",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250418010005/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2025-04-18",
+          "fromSeason": 2025
+        },
+        "ans": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G305",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Razer Huntsman TE",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231112201017/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2023-11-12",
+          "fromSeason": 2023
+        },
+        "fate": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G903",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Razer Blackwidow Chroma TE V2",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "HP OMEN 24.5″",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Sennheiser GAME ZERO",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Razer Gigantus",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231112201017/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2023-11-12",
+          "fromSeason": 2023
+        },
+        "profit": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G Pro Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ASUS ROG Swift PG27AQN",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Logitech G Pro X Headset",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231112201017/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2023-11-12",
+          "fromSeason": 2023
+        },
+        "diya": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro Wireless",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "OMEN by HP 24.5\"",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20230129023007/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2023-01-29",
+          "fromSeason": 2023
+        },
+        "guxue": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G903",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Corsair K-70 RGB",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "OMEN by HP 24.5\"",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20230129023007/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2023-01-29",
+          "fromSeason": 2023
+        },
+        "void": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro Wireless",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "OMEN by HP 24.5\"",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Logitech G640",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20230129023007/https://prosettings.net/lists/overwatch-2/"
+          ],
+          "updatedAt": "2023-01-29",
+          "fromSeason": 2023
+        },
+        "fearless": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer Viper V3 Pro",
+              "site": "esportsmice"
+            }
+          },
+          "sources": [
+            "https://esportsmice.com/players/fearless"
+          ],
+          "updatedAt": null,
+          "fromSeason": null
+        },
+        "kevster": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer Viper V2 Pro",
+              "site": "esportsmice"
+            }
+          },
+          "sources": [
+            "https://esportsmice.com/players/kevster"
+          ],
+          "updatedAt": null,
+          "fromSeason": null
+        },
+        "kilo": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight 2",
+              "site": "esportsmice"
+            }
+          },
+          "sources": [
+            "https://esportsmice.com/players/kilo"
+          ],
+          "updatedAt": null,
+          "fromSeason": null
+        },
+        "mn3": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer Viper V3 Pro",
+              "site": "esportsmice"
+            }
+          },
+          "sources": [
+            "https://esportsmice.com/players/mn3"
+          ],
+          "updatedAt": null,
+          "fromSeason": null
+        },
+        "proper": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer Viper V3 Pro",
+              "site": "esportsmice"
+            }
+          },
+          "sources": [
+            "https://esportsmice.com/players/proper"
+          ],
+          "updatedAt": null,
+          "fromSeason": null
+        }
+      }
+    }
+  }
+}

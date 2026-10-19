@@ -1,0 +1,21 @@
+# 파이썬 실행 부산물
+__pycache__/
+*.pyc
+
+# 받은 페이지 캐시 (다른 사이트 원문이라 저장소에 올리지 않음, 없으면 다시 받음)
+scripts/.cache/
+
+# 실행 기록
+scripts/work/*.log
+
+# 비밀 값을 넣어 둘 수 있는 파일 (secret 키는 절대 커밋하지 않음)
+.env
+.env.*
+scripts/secrets.bat
+
+# 편집기 / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store

@@ -1,0 +1,29 @@
+{
+  "_comment": "게임별 장비 출처. prosettings는 기간별 목록 주소(마지막 항목이 현재 주소). esportsettings는 게임 id (없으면 null).",
+  "lol": {
+    "prosettings": [{ "url": "https://prosettings.net/lists/league-of-legends/" }],
+    "esportsettings": "leagueoflegends"
+  },
+  "valorant": {
+    "prosettings": [{ "url": "https://prosettings.net/lists/valorant/" }],
+    "esportsettings": "valorant"
+  },
+  "pubg": {
+    "prosettings": [{ "url": "https://prosettings.net/lists/pubg/" }],
+    "esportsettings": null
+  },
+  "cs2": {
+    "prosettings": [
+      { "url": "https://prosettings.net/lists/cs-go/", "until": "2023-09-26" },
+      { "url": "https://prosettings.net/lists/cs2/", "from": "2023-09-27" }
+    ],
+    "esportsettings": "cs2"
+  },
+  "overwatch": {
+    "prosettings": [
+      { "url": "https://prosettings.net/lists/overwatch-2/", "until": "2025-12-31" },
+      { "url": "https://prosettings.net/lists/overwatch/", "from": "2026-01-01" }
+    ],
+    "esportsettings": null
+  }
+}

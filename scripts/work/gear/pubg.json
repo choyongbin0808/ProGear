@@ -1,0 +1,3222 @@
+{
+  "game": "pubg",
+  "collectedAt": "2026-10-19",
+  "seasons": {
+    "2023": {
+      "sources": [
+        {
+          "site": "ProSettings.net (Wayback Machine)",
+          "url": "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/",
+          "date": "2023-11-29",
+          "fromSeason": null
+        },
+        {
+          "site": "EsportsMice",
+          "url": "https://esportsmice.com/games/pubg",
+          "date": null
+        }
+      ],
+      "players": {
+        "adam": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro Wireless",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G Pro X Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2540",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "adder": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer Deathadder V2 Pro",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Razer Huntsman Mini",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546K",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "VAXEE PA Y22",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "adouz1e": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro Wireless",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "HyperX Alloy FPS RGB",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2540",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR-SE Divina Blue",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "aitzy": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE EC2-A",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "SteelSeries Apex M750 TKL",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2540",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "SteelSeries QcK Edge",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "aixleft": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Custom Keyboard",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "HyperX Cloud II",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "VAXEE PA Summer23",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "alow": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE EC1-B",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Logitech G Pro X Headset",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR-SE Deep Blue",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "alya": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight White",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G Pro X Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "AOC G2460PF",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Logitech G Pro X Headset",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Logitech G640 Original",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "batulins": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight White",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "HyperX Alloy FPS Pro",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546S",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Artisan Ninja FX Zero Soft",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "bestoloch": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight White",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G915 TKL",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "HyperX Cloud II",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Artisan Ninja FX Zero Soft",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "braexco": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G Pro Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "AOC AG251FZ",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Logitech G640 Original",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "crazy112": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Razer Huntsman TE",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "HyperX Fury S Speed Edition",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "duckmanz": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE FK2",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Corsair K63",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "HyperX Cloud Alpha",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR-SE Divina Pink",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "fexx": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "flash": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro Wireless",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546K",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "HyperX Cloud II",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "fludd": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer Viper Ultimate",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Ducky One 2 TKL",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "gustav": {
+          "gear": {
+            "mouse": {
+              "raw": "SteelSeries Prime Mini Wireless",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "SteelSeries Apex Pro TKL",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "Acer Predator XB272",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "SteelSeries QcK Heavy",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "hwinn": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G703",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G Pro Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546K",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "inonix": {
+          "gear": {
+            "mouse": {
+              "raw": "ROCCAT Kone Pure Ultra",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Custom Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "insight": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE EC2",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Ducky One 2 TKL",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "Alienware AW2521H",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "beyerdynamic DT 770 Pro",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "SteelSeries QcK Heavy",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "jeemzz": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Ducky One 2 Mini",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "Alienware AW2518H",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Bose QuietComfort 20",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Logitech G840",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "keenan": {
+          "gear": {
+            "mouse": {
+              "raw": "Finalmouse Ultralight 2",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G Pro Keyboard",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Sennheiser HD598 SR",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR-SE Divina Blue",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "kickstart": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE FK1-C",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Anne Pro 2",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Fnatic DASH",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "loki": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE FK2",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Leopold FC750R",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "longskr": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE EC2-CW",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "SteelSeries Apex Pro TKL",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR-SE Rouge",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "luke12": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Ducky One 2 TKL",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "HyperX Cloud II",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Artisan Hayate Otsu XSoft",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "lurena": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE EC2-B",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR-SE Deep Blue",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "mellman": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "HyperX Alloy FPS",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "Alienware AW2518H",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "EPOS GSP 500",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "nourinz": {
+          "gear": {
+            "mouse": {
+              "raw": "FinalMouse Starlight-12",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Ducky One 2 Mini",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546K",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "VAXEE PA ZYGEN",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "pio": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE FK1-B",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Corsair K65 TKL",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Bose QuietComfort 20",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "VAXEE PA Black",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "puuchiwz": {
+          "gear": {
+            "mouse": {
+              "raw": "Zowie FK2-B",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "HyperX Alloy Origins",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR-SE Rouge",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "rossitedjr": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE FK2",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "ZOWIE Celeritas II",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2540",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "HyperX Cloud II",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR-SE Divina Pink",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "sharpshot": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Ducky One 2 Mini",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Fnatic DASH",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "shou": {
+          "gear": {
+            "mouse": {
+              "raw": "SteelSeries Sensei Ten",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Razer Blackwidow Chroma TE V2",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ASUS ROG SWIFT PG258Q",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "HyperX Cloud II",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR-SE Blue",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "shrimzy": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE EC2-CW",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "HyperX Alloy FPS Pro",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ASUS ROG SWIFT PG258Q",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "HyperX Cloud II",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "starlord": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Leopold FC750R",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2740",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "tgltn": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight 2 Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "SteelSeries Apex Pro TKL (2023)",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Lethal Gaming Gear Saturn",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "ubah": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "SteelSeries Apex Pro",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "SteelSeries Arctis Pro",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "SteelSeries QcK Heavy",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "vegas": {
+          "gear": {
+            "mouse": {
+              "raw": "Pulsar Xlite V2 Wireless",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "SteelSeries Apex Pro",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ASUS ROG SWIFT PG258Q",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR-SE Blue",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "xbei": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE ZA12",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "ZOWIE Celeritas II",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "SteelSeries QcK Heavy",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "xiaohaixxxx": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE EC1-B",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "xmpl": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G Pro X Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Logitech G640 Original",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": null
+        },
+        "himass": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G703",
+              "site": "esportsmice"
+            }
+          },
+          "sources": [
+            "https://esportsmice.com/players/himass"
+          ],
+          "updatedAt": null,
+          "fromSeason": null
+        },
+        "taikonn": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro Wireless",
+              "site": "esportsmice"
+            }
+          },
+          "sources": [
+            "https://esportsmice.com/players/taikonn"
+          ],
+          "updatedAt": null,
+          "fromSeason": null
+        },
+        "xxxlu": {
+          "gear": {
+            "mouse": {
+              "raw": "Zowie FK2",
+              "site": "esportsmice"
+            }
+          },
+          "sources": [
+            "https://esportsmice.com/players/xxxlu"
+          ],
+          "updatedAt": null,
+          "fromSeason": null
+        }
+      }
+    },
+    "2024": {
+      "sources": [
+        {
+          "site": "ProSettings.net (Wayback Machine)",
+          "url": "https://web.archive.org/web/20241216223302/https://prosettings.net/lists/pubg/",
+          "date": "2024-12-16",
+          "fromSeason": null
+        },
+        {
+          "site": "ProSettings.net (Wayback Machine, 2023 시즌 정보)",
+          "url": "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/",
+          "date": "2023-11-29",
+          "fromSeason": 2023
+        },
+        {
+          "site": "EsportsMice",
+          "url": "https://esportsmice.com/games/pubg",
+          "date": null
+        }
+      ],
+      "players": {
+        "adam": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro Wireless",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G Pro X Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2540",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241216223302/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2024-12-16",
+          "fromSeason": null
+        },
+        "adder": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer Deathadder V2 Pro",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Razer Huntsman Mini",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546K",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "VAXEE PA Y22",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241216223302/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2024-12-16",
+          "fromSeason": null
+        },
+        "adouz1e": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight 2 Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "HyperX Alloy Origins Core",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546K",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR-SE Red",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241216223302/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2024-12-16",
+          "fromSeason": null
+        },
+        "aitzy": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE EC2-A",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "SteelSeries Apex M750 TKL",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2540",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "SteelSeries QcK Edge",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241216223302/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2024-12-16",
+          "fromSeason": null
+        },
+        "aixleft": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Custom Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "HyperX Cloud II",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "VAXEE PA Summer23",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241216223302/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2024-12-16",
+          "fromSeason": null
+        },
+        "alow": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE EC1-B",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Logitech G Pro X Headset",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR-SE Deep Blue",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241216223302/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2024-12-16",
+          "fromSeason": null
+        },
+        "batulins": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight White",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "HyperX Alloy FPS Pro",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546S",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Artisan Ninja FX Zero Soft",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241216223302/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2024-12-16",
+          "fromSeason": null
+        },
+        "bestoloch": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight White",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G915 TKL Carbon",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "HyperX Cloud II",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Artisan Ninja FX Zero Soft",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241216223302/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2024-12-16",
+          "fromSeason": null
+        },
+        "braexco": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G Pro Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "AOC AG251FZ",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Logitech G640 Original",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241216223302/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2024-12-16",
+          "fromSeason": null
+        },
+        "fexx": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241216223302/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2024-12-16",
+          "fromSeason": null
+        },
+        "flash": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro Wireless",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546K",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "HyperX Cloud II",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241216223302/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2024-12-16",
+          "fromSeason": null
+        },
+        "fludd": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer Viper Ultimate",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Ducky One 2 TKL",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241216223302/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2024-12-16",
+          "fromSeason": null
+        },
+        "gustav": {
+          "gear": {
+            "mouse": {
+              "raw": "SteelSeries Prime Mini Wireless",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "SteelSeries Apex Pro TKL",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "Acer Predator XB272",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "SteelSeries QcK Heavy",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241216223302/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2024-12-16",
+          "fromSeason": null
+        },
+        "himass": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G703",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546K",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241216223302/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2024-12-16",
+          "fromSeason": null
+        },
+        "hwinn": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE EC2-CW",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G Pro Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546K",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241216223302/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2024-12-16",
+          "fromSeason": null
+        },
+        "ibiza": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Ducky One 2 Mini",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Bose QuietComfort 20",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Lethal Gaming Gear Saturn Pro",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241216223302/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2024-12-16",
+          "fromSeason": null
+        },
+        "inonix": {
+          "gear": {
+            "mouse": {
+              "raw": "ROCCAT Kone Pure Ultra",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Custom Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241216223302/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2024-12-16",
+          "fromSeason": null
+        },
+        "jeemzz": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Ducky One 2 Mini",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "Alienware AW2518H",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Bose QuietComfort 20",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Logitech G840",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241216223302/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2024-12-16",
+          "fromSeason": null
+        },
+        "kickstart": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro Wireless",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Anne Pro 2",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Fnatic DASH",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241216223302/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2024-12-16",
+          "fromSeason": null
+        },
+        "longskr": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Magenta",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "SteelSeries Apex Pro TKL",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2566K",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR-SE Rouge",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241216223302/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2024-12-16",
+          "fromSeason": null
+        },
+        "luke12": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Ducky One 2 TKL",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "HyperX Cloud II",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Artisan Hayate Otsu XSoft",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241216223302/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2024-12-16",
+          "fromSeason": null
+        },
+        "nourinz": {
+          "gear": {
+            "mouse": {
+              "raw": "FinalMouse Starlight-12",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Ducky One 2 Mini",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546K",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "VAXEE PA ZYGEN",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241216223302/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2024-12-16",
+          "fromSeason": null
+        },
+        "puuchiwz": {
+          "gear": {
+            "mouse": {
+              "raw": "Zowie FK2-B",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "HyperX Alloy Origins",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR-SE Rouge",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241216223302/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2024-12-16",
+          "fromSeason": null
+        },
+        "rossitedjr": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE FK2",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "ZOWIE Celeritas II",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2540",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "HyperX Cloud II",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR-SE Divina Pink",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241216223302/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2024-12-16",
+          "fromSeason": null
+        },
+        "shrimzy": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight 2 Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "HyperX Alloy FPS Pro",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ASUS ROG SWIFT PG258Q",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "HyperX Cloud II",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241216223302/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2024-12-16",
+          "fromSeason": null
+        },
+        "starlord": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Leopold FC750R",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2740",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241216223302/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2024-12-16",
+          "fromSeason": null
+        },
+        "tgltn": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight 2 Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Wooting 60HE+",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Lethal Gaming Gear Saturn",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241216223302/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2024-12-16",
+          "fromSeason": null
+        },
+        "xbei": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE ZA12",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "ZOWIE Celeritas II",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "SteelSeries QcK Heavy",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241216223302/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2024-12-16",
+          "fromSeason": null
+        },
+        "xmpl": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G Pro X Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Logitech G640 Original",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20241216223302/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2024-12-16",
+          "fromSeason": null
+        },
+        "shou": {
+          "gear": {
+            "mouse": {
+              "raw": "SteelSeries Sensei Ten",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Razer Blackwidow Chroma TE V2",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ASUS ROG SWIFT PG258Q",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "HyperX Cloud II",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR-SE Blue",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20231129010039/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2023-11-29",
+          "fromSeason": 2023
+        },
+        "taikonn": {
+          "gear": {
+            "mouse": {
+              "raw": "Corsair M75 Wireless",
+              "site": "esportsmice"
+            }
+          },
+          "sources": [
+            "https://esportsmice.com/players/taikonn"
+          ],
+          "updatedAt": null,
+          "fromSeason": null
+        }
+      }
+    },
+    "2025": {
+      "sources": [
+        {
+          "site": "ProSettings.net (Wayback Machine)",
+          "url": "https://web.archive.org/web/20250910180852/https://prosettings.net/lists/pubg/",
+          "date": "2025-09-10",
+          "fromSeason": null
+        },
+        {
+          "site": "ProSettings.net (Wayback Machine)",
+          "url": "https://web.archive.org/web/20250424214855/https://prosettings.net/lists/pubg/",
+          "date": "2025-04-24",
+          "fromSeason": null
+        },
+        {
+          "site": "EsportsMice",
+          "url": "https://esportsmice.com/games/pubg",
+          "date": null
+        }
+      ],
+      "players": {
+        "adam": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro Wireless",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G Pro X Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2540",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250910180852/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2025-09-10",
+          "fromSeason": null
+        },
+        "adouz1e": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight 2 Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Wooting 80HE Black",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546K",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR-SE Red",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250910180852/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2025-09-10",
+          "fromSeason": null
+        },
+        "aitzy": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE EC2-A",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "SteelSeries Apex M750 TKL",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2540",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "SteelSeries QcK Edge",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250910180852/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2025-09-10",
+          "fromSeason": null
+        },
+        "aixleft": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Custom Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546X+",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "HyperX Cloud II",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "VAXEE PA Summer23",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250910180852/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2025-09-10",
+          "fromSeason": null
+        },
+        "alow": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE EC1-B",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Logitech G Pro X Headset",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR-SE Deep Blue",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250910180852/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2025-09-10",
+          "fromSeason": null
+        },
+        "batulins": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight White",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "HyperX Alloy FPS Pro",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546S",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Artisan Ninja FX Zero Soft Black",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250910180852/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2025-09-10",
+          "fromSeason": null
+        },
+        "bestoloch": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight White",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G915 TKL Carbon",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "HyperX Cloud II",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Artisan Ninja FX Zero Soft Black",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250910180852/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2025-09-10",
+          "fromSeason": null
+        },
+        "braexco": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G Pro Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "AOC AG251FZ",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Logitech G640 Original",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250910180852/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2025-09-10",
+          "fromSeason": null
+        },
+        "eaddy": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro Wireless",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Sennheiser GAME ZERO",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250910180852/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2025-09-10",
+          "fromSeason": null
+        },
+        "fexx": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250910180852/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2025-09-10",
+          "fromSeason": null
+        },
+        "flash": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro Wireless",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546K",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "HyperX Cloud II",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250910180852/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2025-09-10",
+          "fromSeason": null
+        },
+        "fludd": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer Viper Ultimate",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Ducky One 2 TKL",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250910180852/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2025-09-10",
+          "fromSeason": null
+        },
+        "gustav": {
+          "gear": {
+            "mouse": {
+              "raw": "SteelSeries Prime Mini Wireless",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "SteelSeries Apex Pro TKL",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "Acer Predator XB272",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "SteelSeries QcK Heavy",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250910180852/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2025-09-10",
+          "fromSeason": null
+        },
+        "himass": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G703",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546K",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250910180852/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2025-09-10",
+          "fromSeason": null
+        },
+        "hwinn": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE EC3-DW",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G Pro Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546K",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250910180852/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2025-09-10",
+          "fromSeason": null
+        },
+        "ibiza": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Ducky One 2 Mini",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Bose QuietComfort 20",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Lethal Gaming Gear Saturn Pro",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250910180852/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2025-09-10",
+          "fromSeason": null
+        },
+        "jeemzz": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Ducky One 2 Mini",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "Alienware AW2518H",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Bose QuietComfort 20",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Logitech G840",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250910180852/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2025-09-10",
+          "fromSeason": null
+        },
+        "kickstart": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro Wireless",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Anne Pro 2",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Fnatic DASH",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250910180852/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2025-09-10",
+          "fromSeason": null
+        },
+        "luke12": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Ducky One 2 TKL",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "HyperX Cloud II",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Artisan Hayate Otsu XSoft Black",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250910180852/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2025-09-10",
+          "fromSeason": null
+        },
+        "marcelek": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer Viper V3 Pro Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Razer Huntsman V3 Pro TKL Black",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Razer BlackShark V2 Pro Black",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Razer Gigantus",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250910180852/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2025-09-10",
+          "fromSeason": null
+        },
+        "nourinz": {
+          "gear": {
+            "mouse": {
+              "raw": "FinalMouse Starlight-12",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Ducky One 2 Mini",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546K",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "VAXEE PA ZYGEN",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250910180852/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2025-09-10",
+          "fromSeason": null
+        },
+        "pio": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight 2 Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Corsair K65 TKL",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Bose QuietComfort 20",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "VAXEE PA Black",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250910180852/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2025-09-10",
+          "fromSeason": null
+        },
+        "rossitedjr": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE FK2",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "ZOWIE Celeritas II",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2540",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "HyperX Cloud II",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR-SE Divina Pink",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250910180852/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2025-09-10",
+          "fromSeason": null
+        },
+        "shrimzy": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight 2 Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "HyperX Alloy FPS Pro",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ASUS ROG SWIFT PG258Q",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "HyperX Cloud II",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250910180852/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2025-09-10",
+          "fromSeason": null
+        },
+        "tgltn": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight 2 White",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Wooting 60HE+",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE H-SR-SE ROUGE II",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250910180852/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2025-09-10",
+          "fromSeason": null
+        },
+        "xbei": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE ZA12",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "ZOWIE Celeritas II",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "SteelSeries QcK Heavy",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250910180852/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2025-09-10",
+          "fromSeason": null
+        },
+        "xmpl": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "SteelSeries Apex Pro TKL",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Artisan Hayate Otsu Soft Black",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250910180852/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2025-09-10",
+          "fromSeason": null
+        },
+        "ezqelusia": {
+          "gear": {
+            "mouse": {
+              "raw": "Zowie FK2-B",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G Pro X Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Logitech G Pro X Headset",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Logitech G640 Original",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250424214855/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2025-04-24",
+          "fromSeason": null
+        },
+        "starlord": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Leopold FC750R",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2740",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250424214855/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2025-04-24",
+          "fromSeason": null
+        },
+        "xxxlu": {
+          "gear": {
+            "mouse": {
+              "raw": "Zowie FK2",
+              "site": "esportsmice"
+            }
+          },
+          "sources": [
+            "https://esportsmice.com/players/xxxlu"
+          ],
+          "updatedAt": null,
+          "fromSeason": null
+        }
+      }
+    },
+    "2026": {
+      "sources": [
+        {
+          "site": "ProSettings.net",
+          "url": "https://prosettings.net/lists/pubg/",
+          "date": "2026-10-19"
+        },
+        {
+          "site": "ProSettings.net (Wayback Machine, 2025 시즌 정보)",
+          "url": "https://web.archive.org/web/20250424214855/https://prosettings.net/lists/pubg/",
+          "date": "2025-04-24",
+          "fromSeason": 2025
+        }
+      ],
+      "players": {
+        "adam": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro Wireless",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G Pro X Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2540",
+              "site": "prosettings"
+            }
+          },
+          "sources": [],
+          "updatedAt": null
+        },
+        "adouz1e": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight 2c Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Wooting 80HE Black",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546K",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Artisan Hayate Otsu V2 Mid Wine Red",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://prosettings.net/players/adouz1e/"
+          ],
+          "updatedAt": null
+        },
+        "aitzy": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE EC2-A",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "SteelSeries Apex M750 TKL",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2540",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "SteelSeries QcK Edge",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://prosettings.net/players/aitzy/"
+          ],
+          "updatedAt": null
+        },
+        "alow": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE EC1-B",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Logitech G Pro X Headset",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR-SE Deep Blue",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://prosettings.net/players/alow/"
+          ],
+          "updatedAt": null
+        },
+        "batulins": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight White",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "SteelSeries Apex Pro",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546K",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Artisan Ninja FX Zero Soft Black",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://prosettings.net/players/batulins/"
+          ],
+          "updatedAt": null
+        },
+        "fexx": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://prosettings.net/players/fexx/"
+          ],
+          "updatedAt": null
+        },
+        "flash": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro Wireless",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546K",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "HyperX Cloud II",
+              "site": "prosettings"
+            }
+          },
+          "sources": [],
+          "updatedAt": null
+        },
+        "fludd": {
+          "gear": {
+            "mouse": {
+              "raw": "Razer Viper V4 Pro Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Ducky One 2 TKL",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://prosettings.net/players/fludd/"
+          ],
+          "updatedAt": null
+        },
+        "gustav": {
+          "gear": {
+            "mouse": {
+              "raw": "SteelSeries Prime Mini Wireless",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "SteelSeries Apex Pro TKL",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "Acer Predator XB272",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "SteelSeries QcK Heavy Black",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://prosettings.net/players/gustav/"
+          ],
+          "updatedAt": null
+        },
+        "himass": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X2 SUPERSTRIKE Lunar Eclipse",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Wooting 80HE Black",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546K",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "HyperX Cloud II",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE H-SR-SE ROUGE II",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://prosettings.net/players/himass/"
+          ],
+          "updatedAt": null
+        },
+        "hwinn": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE EC3-DW Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Logitech G Pro Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546K",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://prosettings.net/players/hwinn/"
+          ],
+          "updatedAt": null
+        },
+        "inonix": {
+          "gear": {
+            "mouse": {
+              "raw": "ROCCAT Kone Pure Ultra",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Custom Keyboard",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://prosettings.net/players/inonix/"
+          ],
+          "updatedAt": null
+        },
+        "jeemzz": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Ducky One 2 Mini",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "Alienware AW2518H",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Bose QuietComfort 20",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Logitech G840",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://prosettings.net/players/jeemzz/"
+          ],
+          "updatedAt": null
+        },
+        "kickstart": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro Wireless",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Anne Pro 2",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Fnatic DASH",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://prosettings.net/players/kickstart/"
+          ],
+          "updatedAt": null
+        },
+        "luke12": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Ducky One 2 TKL",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "HyperX Cloud II",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Artisan Hayate Otsu V2 XSoft Black",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://prosettings.net/players/luke12/"
+          ],
+          "updatedAt": null
+        },
+        "mellman": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "HyperX Alloy FPS",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "Alienware AW2518H",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "EPOS GSP 500",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://prosettings.net/players/mellman/"
+          ],
+          "updatedAt": null
+        },
+        "nourinz": {
+          "gear": {
+            "mouse": {
+              "raw": "FinalMouse Starlight-12",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Ducky One 2 Mini",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546K",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "VAXEE PA ZYGEN",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://prosettings.net/players/nourinz/"
+          ],
+          "updatedAt": null
+        },
+        "pio": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight 2 Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Corsair K65 TKL",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Bose QuietComfort 20",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "VAXEE PA Black",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://prosettings.net/players/pio/"
+          ],
+          "updatedAt": null
+        },
+        "rossitedjr": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE FK2",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "ZOWIE Celeritas II",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2540",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "HyperX Cloud II",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR-SE Divina Pink",
+              "site": "prosettings"
+            }
+          },
+          "sources": [],
+          "updatedAt": null
+        },
+        "shrimzy": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X Superlight 2 Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "HyperX Alloy FPS Pro",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ASUS ROG SWIFT PG258Q",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "HyperX Cloud II",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://prosettings.net/players/shrimzy/"
+          ],
+          "updatedAt": null
+        },
+        "taikonn": {
+          "gear": {
+            "mouse": {
+              "raw": "Corsair M75 Wireless",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Wooting 60HE+",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546K",
+              "site": "prosettings"
+            },
+            "headset": {
+              "raw": "Corsair HS80 MAX",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "ZOWIE G-SR-SE ROUGE II",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://prosettings.net/players/taikonn/"
+          ],
+          "updatedAt": null
+        },
+        "tgltn": {
+          "gear": {
+            "mouse": {
+              "raw": "Logitech G Pro X3 SUPERSTRIKE Midnight Black",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "Wooting 80HE TenZ Edition",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2546",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Artisan Type-99 Matcha",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://prosettings.net/players/tgltn/"
+          ],
+          "updatedAt": null
+        },
+        "xmpl": {
+          "gear": {
+            "mouse": {
+              "raw": "Ninjutso Sora V2 White",
+              "site": "prosettings"
+            },
+            "keyboard": {
+              "raw": "SteelSeries Apex Pro TKL",
+              "site": "prosettings"
+            },
+            "monitor": {
+              "raw": "ZOWIE XL2566X+",
+              "site": "prosettings"
+            },
+            "mousepad": {
+              "raw": "Artisan Hayate Otsu V2 Soft Black",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://prosettings.net/players/xmpl/"
+          ],
+          "updatedAt": null
+        },
+        "sapauu": {
+          "gear": {
+            "mouse": {
+              "raw": "ZOWIE EC2-B",
+              "site": "prosettings"
+            }
+          },
+          "sources": [
+            "https://web.archive.org/web/20250424214855/https://prosettings.net/lists/pubg/"
+          ],
+          "updatedAt": "2025-04-24",
+          "fromSeason": 2025
+        }
+      }
+    }
+  }
+}

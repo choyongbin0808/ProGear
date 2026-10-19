@@ -1,0 +1,4996 @@
+{
+  "game": "pubg",
+  "season": 2026,
+  "gameVersion": null,
+  "updatedAt": "2026-10-19",
+  "rosterSource": "https://liquipedia.net/pubg/",
+  "gearSources": [
+    {
+      "site": "ProSettings.net",
+      "url": "https://prosettings.net/lists/pubg/",
+      "date": "2026-10-19"
+    },
+    {
+      "site": "ProSettings.net (Wayback Machine, 2025 시즌 정보)",
+      "url": "https://web.archive.org/web/20250424214855/https://prosettings.net/lists/pubg/",
+      "date": "2025-04-24",
+      "fromSeason": 2025
+    }
+  ],
+  "competitions": [
+    {
+      "id": "pubg-global-series-2026-circuit-1-series-1",
+      "name": "PUBG Global Series 2026 Circuit 1 Series 1",
+      "startDate": "2026-03-18",
+      "endDate": "2026-03-22",
+      "gameVersion": null,
+      "liquipedia": "https://liquipedia.net/pubg/PUBG_Global_Series/2026/Circuit_1/Series_1"
+    },
+    {
+      "id": "pubg-global-series-2026-circuit-1-series-2",
+      "name": "PUBG Global Series 2026 Circuit 1 Series 2",
+      "startDate": "2026-03-26",
+      "endDate": "2026-03-29",
+      "gameVersion": null,
+      "liquipedia": "https://liquipedia.net/pubg/PUBG_Global_Series/2026/Circuit_1/Series_2"
+    },
+    {
+      "id": "pubg-global-series-2026-circuit-1-series-final",
+      "name": "PUBG Global Series 2026 Circuit 1 Series Final",
+      "startDate": "2026-04-02",
+      "endDate": "2026-04-05",
+      "gameVersion": null,
+      "liquipedia": "https://liquipedia.net/pubg/PUBG_Global_Series/2026/Circuit_1/Series_Final"
+    },
+    {
+      "id": "pubg-global-series-2026-circuit-2-series-1",
+      "name": "PUBG Global Series 2026 Circuit 2 Series 1",
+      "startDate": "2026-05-20",
+      "endDate": "2026-05-24",
+      "gameVersion": null,
+      "liquipedia": "https://liquipedia.net/pubg/PUBG_Global_Series/2026/Circuit_2/Series_1"
+    },
+    {
+      "id": "pubg-global-series-2026-circuit-2-series-2",
+      "name": "PUBG Global Series 2026 Circuit 2 Series 2",
+      "startDate": "2026-05-28",
+      "endDate": "2026-05-31",
+      "gameVersion": null,
+      "liquipedia": "https://liquipedia.net/pubg/PUBG_Global_Series/2026/Circuit_2/Series_2"
+    },
+    {
+      "id": "pubg-global-series-2026-circuit-2-series-final",
+      "name": "PUBG Global Series 2026 Circuit 2 Series Final",
+      "startDate": "2026-06-04",
+      "endDate": "2026-06-07",
+      "gameVersion": null,
+      "liquipedia": "https://liquipedia.net/pubg/PUBG_Global_Series/2026/Circuit_2/Series_Final"
+    },
+    {
+      "id": "pubg-nations-cup-2026",
+      "name": "PUBG Nations Cup 2026",
+      "startDate": "2026-06-23",
+      "endDate": "2026-06-28",
+      "gameVersion": null,
+      "liquipedia": "https://liquipedia.net/pubg/PUBG_Nations_Cup/2026"
+    },
+    {
+      "id": "pubg-global-series-2026-circuit-3-series-1",
+      "name": "PUBG Global Series 2026 Circuit 3 Series 1",
+      "startDate": "2026-08-05",
+      "endDate": "2026-08-09",
+      "gameVersion": null,
+      "liquipedia": "https://liquipedia.net/pubg/PUBG_Global_Series/2026/Circuit_3/Series_1"
+    },
+    {
+      "id": "pubg-global-series-2026-circuit-3-series-2",
+      "name": "PUBG Global Series 2026 Circuit 3 Series 2",
+      "startDate": "2026-08-13",
+      "endDate": "2026-08-16",
+      "gameVersion": null,
+      "liquipedia": "https://liquipedia.net/pubg/PUBG_Global_Series/2026/Circuit_3/Series_2"
+    },
+    {
+      "id": "pubg-global-series-2026-circuit-3-series-final",
+      "name": "PUBG Global Series 2026 Circuit 3 Series Final",
+      "startDate": "2026-08-20",
+      "endDate": "2026-08-23",
+      "gameVersion": null,
+      "liquipedia": "https://liquipedia.net/pubg/PUBG_Global_Series/2026/Circuit_3/Series_Final"
+    },
+    {
+      "id": "pubg-global-series-2026-circuit-4-series-1",
+      "name": "PUBG Global Series 2026 Circuit 4 Series 1",
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-18",
+      "gameVersion": null,
+      "liquipedia": "https://liquipedia.net/pubg/PUBG_Global_Series/2026/Circuit_4/Series_1"
+    },
+    {
+      "id": "pubg-global-series-2026-circuit-4-series-2",
+      "name": "PUBG Global Series 2026 Circuit 4 Series 2",
+      "startDate": "2026-10-22",
+      "endDate": "2026-10-25",
+      "gameVersion": null,
+      "liquipedia": "https://liquipedia.net/pubg/PUBG_Global_Series/2026/Circuit_4/Series_2"
+    },
+    {
+      "id": "pubg-global-series-2026-circuit-4-series-final",
+      "name": "PUBG Global Series 2026 Circuit 4 Series Final",
+      "startDate": "2026-10-29",
+      "endDate": "2026-11-01",
+      "gameVersion": null,
+      "liquipedia": "https://liquipedia.net/pubg/PUBG_Global_Series/2026/Circuit_4/Series_Final"
+    },
+    {
+      "id": "pubg-global-championship-2026",
+      "name": "PUBG Global Championship 2026",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-13",
+      "gameVersion": null,
+      "liquipedia": "https://liquipedia.net/pubg/PUBG_Global_Championship/2026"
+    }
+  ],
+  "teams": [
+    {
+      "id": "four-angry-men",
+      "name": "Four Angry Men",
+      "competitions": [
+        "pubg-global-series-2026-circuit-1-series-1",
+        "pubg-global-series-2026-circuit-1-series-2",
+        "pubg-global-series-2026-circuit-1-series-final",
+        "pubg-global-series-2026-circuit-2-series-1",
+        "pubg-global-series-2026-circuit-2-series-2",
+        "pubg-global-series-2026-circuit-2-series-final",
+        "pubg-global-series-2026-circuit-3-series-1",
+        "pubg-global-series-2026-circuit-3-series-2",
+        "pubg-global-series-2026-circuit-3-series-final",
+        "pubg-global-series-2026-circuit-4-series-1",
+        "pubg-global-series-2026-circuit-4-series-2",
+        "pubg-global-series-2026-circuit-4-series-final",
+        "pubg-global-championship-2026"
+      ]
+    },
+    {
+      "id": "17-gaming",
+      "name": "17 Gaming",
+      "competitions": [
+        "pubg-global-series-2026-circuit-1-series-1",
+        "pubg-global-series-2026-circuit-1-series-2",
+        "pubg-global-series-2026-circuit-1-series-final",
+        "pubg-global-series-2026-circuit-2-series-1",
+        "pubg-global-series-2026-circuit-2-series-2",
+        "pubg-global-series-2026-circuit-2-series-final",
+        "pubg-global-series-2026-circuit-3-series-1",
+        "pubg-global-series-2026-circuit-3-series-2",
+        "pubg-global-series-2026-circuit-3-series-final",
+        "pubg-global-series-2026-circuit-4-series-1",
+        "pubg-global-series-2026-circuit-4-series-2",
+        "pubg-global-series-2026-circuit-4-series-final",
+        "pubg-global-championship-2026"
+      ]
+    },
+    {
+      "id": "anyone-s-legend",
+      "name": "Anyone's Legend",
+      "competitions": [
+        "pubg-global-series-2026-circuit-1-series-1",
+        "pubg-global-series-2026-circuit-1-series-2",
+        "pubg-global-series-2026-circuit-1-series-final",
+        "pubg-global-series-2026-circuit-2-series-1",
+        "pubg-global-series-2026-circuit-2-series-2",
+        "pubg-global-series-2026-circuit-2-series-final",
+        "pubg-global-series-2026-circuit-3-series-1",
+        "pubg-global-series-2026-circuit-3-series-2",
+        "pubg-global-series-2026-circuit-3-series-final",
+        "pubg-global-series-2026-circuit-4-series-1",
+        "pubg-global-series-2026-circuit-4-series-2",
+        "pubg-global-series-2026-circuit-4-series-final",
+        "pubg-global-championship-2026"
+      ]
+    },
+    {
+      "id": "freecs",
+      "name": "Freecs",
+      "competitions": [
+        "pubg-global-series-2026-circuit-1-series-1",
+        "pubg-global-series-2026-circuit-1-series-2",
+        "pubg-global-series-2026-circuit-1-series-final",
+        "pubg-global-series-2026-circuit-2-series-1",
+        "pubg-global-series-2026-circuit-2-series-2",
+        "pubg-global-series-2026-circuit-2-series-final",
+        "pubg-global-series-2026-circuit-3-series-1",
+        "pubg-global-series-2026-circuit-3-series-2",
+        "pubg-global-series-2026-circuit-3-series-final",
+        "pubg-global-series-2026-circuit-4-series-1",
+        "pubg-global-series-2026-circuit-4-series-2",
+        "pubg-global-series-2026-circuit-4-series-final"
+      ]
+    },
+    {
+      "id": "team-falcons",
+      "name": "Team Falcons",
+      "competitions": [
+        "pubg-global-series-2026-circuit-1-series-1",
+        "pubg-global-series-2026-circuit-1-series-2",
+        "pubg-global-series-2026-circuit-1-series-final",
+        "pubg-global-series-2026-circuit-2-series-1",
+        "pubg-global-series-2026-circuit-2-series-2",
+        "pubg-global-series-2026-circuit-2-series-final",
+        "pubg-global-series-2026-circuit-3-series-1",
+        "pubg-global-series-2026-circuit-3-series-2",
+        "pubg-global-series-2026-circuit-3-series-final",
+        "pubg-global-series-2026-circuit-4-series-1",
+        "pubg-global-series-2026-circuit-4-series-2",
+        "pubg-global-series-2026-circuit-4-series-final",
+        "pubg-global-championship-2026"
+      ]
+    },
+    {
+      "id": "full-sense",
+      "name": "FULL SENSE",
+      "competitions": [
+        "pubg-global-series-2026-circuit-1-series-1",
+        "pubg-global-series-2026-circuit-1-series-2",
+        "pubg-global-series-2026-circuit-1-series-final",
+        "pubg-global-series-2026-circuit-2-series-1",
+        "pubg-global-series-2026-circuit-2-series-2",
+        "pubg-global-series-2026-circuit-2-series-final",
+        "pubg-global-series-2026-circuit-3-series-1",
+        "pubg-global-series-2026-circuit-3-series-2",
+        "pubg-global-series-2026-circuit-3-series-final",
+        "pubg-global-series-2026-circuit-4-series-1",
+        "pubg-global-series-2026-circuit-4-series-2",
+        "pubg-global-series-2026-circuit-4-series-final"
+      ]
+    },
+    {
+      "id": "gen-g",
+      "name": "Gen.G",
+      "competitions": [
+        "pubg-global-series-2026-circuit-1-series-1",
+        "pubg-global-series-2026-circuit-1-series-2",
+        "pubg-global-series-2026-circuit-1-series-final",
+        "pubg-global-series-2026-circuit-2-series-1",
+        "pubg-global-series-2026-circuit-2-series-2",
+        "pubg-global-series-2026-circuit-2-series-final",
+        "pubg-global-series-2026-circuit-3-series-1",
+        "pubg-global-series-2026-circuit-3-series-2",
+        "pubg-global-series-2026-circuit-3-series-final",
+        "pubg-global-series-2026-circuit-4-series-1",
+        "pubg-global-series-2026-circuit-4-series-2",
+        "pubg-global-series-2026-circuit-4-series-final"
+      ]
+    },
+    {
+      "id": "earena",
+      "name": "eArena",
+      "competitions": [
+        "pubg-global-series-2026-circuit-1-series-1",
+        "pubg-global-series-2026-circuit-1-series-2",
+        "pubg-global-series-2026-circuit-1-series-final",
+        "pubg-global-series-2026-circuit-2-series-1",
+        "pubg-global-series-2026-circuit-2-series-2",
+        "pubg-global-series-2026-circuit-2-series-final",
+        "pubg-global-series-2026-circuit-3-series-1",
+        "pubg-global-series-2026-circuit-3-series-2",
+        "pubg-global-series-2026-circuit-3-series-final",
+        "pubg-global-series-2026-circuit-4-series-1",
+        "pubg-global-series-2026-circuit-4-series-2",
+        "pubg-global-series-2026-circuit-4-series-final"
+      ]
+    },
+    {
+      "id": "natus-vincere",
+      "name": "Natus Vincere",
+      "competitions": [
+        "pubg-global-series-2026-circuit-1-series-1",
+        "pubg-global-series-2026-circuit-1-series-2",
+        "pubg-global-series-2026-circuit-1-series-final",
+        "pubg-global-series-2026-circuit-2-series-1",
+        "pubg-global-series-2026-circuit-2-series-2",
+        "pubg-global-series-2026-circuit-2-series-final",
+        "pubg-global-series-2026-circuit-3-series-1",
+        "pubg-global-series-2026-circuit-3-series-2",
+        "pubg-global-series-2026-circuit-3-series-final",
+        "pubg-global-series-2026-circuit-4-series-1",
+        "pubg-global-series-2026-circuit-4-series-2",
+        "pubg-global-series-2026-circuit-4-series-final",
+        "pubg-global-championship-2026"
+      ]
+    },
+    {
+      "id": "petrichor-road",
+      "name": "Petrichor Road",
+      "competitions": [
+        "pubg-global-series-2026-circuit-1-series-1",
+        "pubg-global-series-2026-circuit-1-series-2",
+        "pubg-global-series-2026-circuit-1-series-final",
+        "pubg-global-series-2026-circuit-2-series-1",
+        "pubg-global-series-2026-circuit-2-series-2",
+        "pubg-global-series-2026-circuit-2-series-final",
+        "pubg-global-series-2026-circuit-3-series-1",
+        "pubg-global-series-2026-circuit-3-series-2",
+        "pubg-global-series-2026-circuit-3-series-final",
+        "pubg-global-series-2026-circuit-4-series-1",
+        "pubg-global-series-2026-circuit-4-series-2",
+        "pubg-global-series-2026-circuit-4-series-final",
+        "pubg-global-championship-2026"
+      ]
+    },
+    {
+      "id": "twisted-minds",
+      "name": "Twisted Minds",
+      "competitions": [
+        "pubg-global-series-2026-circuit-1-series-1",
+        "pubg-global-series-2026-circuit-1-series-2",
+        "pubg-global-series-2026-circuit-1-series-final",
+        "pubg-global-series-2026-circuit-2-series-1",
+        "pubg-global-series-2026-circuit-2-series-2",
+        "pubg-global-series-2026-circuit-2-series-final",
+        "pubg-global-series-2026-circuit-3-series-1",
+        "pubg-global-series-2026-circuit-3-series-2",
+        "pubg-global-series-2026-circuit-3-series-final",
+        "pubg-global-series-2026-circuit-4-series-1",
+        "pubg-global-series-2026-circuit-4-series-2",
+        "pubg-global-series-2026-circuit-4-series-final",
+        "pubg-global-championship-2026"
+      ]
+    },
+    {
+      "id": "virtus-pro",
+      "name": "Virtus.pro",
+      "competitions": [
+        "pubg-global-series-2026-circuit-1-series-1",
+        "pubg-global-series-2026-circuit-1-series-2",
+        "pubg-global-series-2026-circuit-1-series-final",
+        "pubg-global-series-2026-circuit-2-series-1",
+        "pubg-global-series-2026-circuit-2-series-2",
+        "pubg-global-series-2026-circuit-2-series-final",
+        "pubg-global-series-2026-circuit-3-series-1",
+        "pubg-global-series-2026-circuit-3-series-2",
+        "pubg-global-series-2026-circuit-3-series-final",
+        "pubg-global-series-2026-circuit-4-series-1",
+        "pubg-global-series-2026-circuit-4-series-2",
+        "pubg-global-series-2026-circuit-4-series-final",
+        "pubg-global-championship-2026"
+      ]
+    },
+    {
+      "id": "s2g-esports",
+      "name": "S2G Esports",
+      "competitions": [
+        "pubg-global-series-2026-circuit-1-series-1",
+        "pubg-global-series-2026-circuit-1-series-2",
+        "pubg-global-series-2026-circuit-1-series-final",
+        "pubg-global-series-2026-circuit-2-series-1",
+        "pubg-global-series-2026-circuit-2-series-2",
+        "pubg-global-series-2026-circuit-2-series-final"
+      ]
+    },
+    {
+      "id": "team-vitality",
+      "name": "Team Vitality",
+      "competitions": [
+        "pubg-global-series-2026-circuit-1-series-1",
+        "pubg-global-series-2026-circuit-1-series-2",
+        "pubg-global-series-2026-circuit-1-series-final",
+        "pubg-global-series-2026-circuit-2-series-1",
+        "pubg-global-series-2026-circuit-2-series-2",
+        "pubg-global-series-2026-circuit-2-series-final",
+        "pubg-global-series-2026-circuit-3-series-1",
+        "pubg-global-series-2026-circuit-3-series-2",
+        "pubg-global-series-2026-circuit-3-series-final",
+        "pubg-global-series-2026-circuit-4-series-1",
+        "pubg-global-series-2026-circuit-4-series-2",
+        "pubg-global-series-2026-circuit-4-series-final"
+      ]
+    },
+    {
+      "id": "furia",
+      "name": "FURIA",
+      "competitions": [
+        "pubg-global-series-2026-circuit-1-series-1",
+        "pubg-global-series-2026-circuit-1-series-2",
+        "pubg-global-series-2026-circuit-1-series-final",
+        "pubg-global-series-2026-circuit-2-series-1",
+        "pubg-global-series-2026-circuit-2-series-2",
+        "pubg-global-series-2026-circuit-2-series-final"
+      ]
+    },
+    {
+      "id": "team-liquid",
+      "name": "Team Liquid",
+      "competitions": [
+        "pubg-global-series-2026-circuit-1-series-1",
+        "pubg-global-series-2026-circuit-1-series-2",
+        "pubg-global-series-2026-circuit-1-series-final",
+        "pubg-global-series-2026-circuit-2-series-1",
+        "pubg-global-series-2026-circuit-2-series-2",
+        "pubg-global-series-2026-circuit-2-series-final",
+        "pubg-global-series-2026-circuit-3-series-1",
+        "pubg-global-series-2026-circuit-3-series-2",
+        "pubg-global-series-2026-circuit-3-series-final",
+        "pubg-global-series-2026-circuit-4-series-1",
+        "pubg-global-series-2026-circuit-4-series-2",
+        "pubg-global-series-2026-circuit-4-series-final",
+        "pubg-global-championship-2026"
+      ]
+    },
+    {
+      "id": "jd-gaming",
+      "name": "JD Gaming",
+      "competitions": [
+        "pubg-global-series-2026-circuit-1-series-1",
+        "pubg-global-series-2026-circuit-1-series-2",
+        "pubg-global-series-2026-circuit-1-series-final",
+        "pubg-global-series-2026-circuit-2-series-1",
+        "pubg-global-series-2026-circuit-2-series-2",
+        "pubg-global-series-2026-circuit-2-series-final",
+        "pubg-global-series-2026-circuit-3-series-1",
+        "pubg-global-series-2026-circuit-3-series-2",
+        "pubg-global-series-2026-circuit-3-series-final",
+        "pubg-global-series-2026-circuit-4-series-1",
+        "pubg-global-series-2026-circuit-4-series-2",
+        "pubg-global-series-2026-circuit-4-series-final"
+      ]
+    },
+    {
+      "id": "change-the-game",
+      "name": "Change The Game",
+      "competitions": [
+        "pubg-global-series-2026-circuit-1-series-1",
+        "pubg-global-series-2026-circuit-1-series-2",
+        "pubg-global-series-2026-circuit-1-series-final",
+        "pubg-global-series-2026-circuit-2-series-1",
+        "pubg-global-series-2026-circuit-2-series-2",
+        "pubg-global-series-2026-circuit-2-series-final"
+      ]
+    },
+    {
+      "id": "t1",
+      "name": "T1",
+      "competitions": [
+        "pubg-global-series-2026-circuit-1-series-1",
+        "pubg-global-series-2026-circuit-1-series-2",
+        "pubg-global-series-2026-circuit-1-series-final",
+        "pubg-global-series-2026-circuit-2-series-1",
+        "pubg-global-series-2026-circuit-2-series-2",
+        "pubg-global-series-2026-circuit-2-series-final",
+        "pubg-global-series-2026-circuit-3-series-1",
+        "pubg-global-series-2026-circuit-3-series-2",
+        "pubg-global-series-2026-circuit-3-series-final",
+        "pubg-global-series-2026-circuit-4-series-1",
+        "pubg-global-series-2026-circuit-4-series-2",
+        "pubg-global-series-2026-circuit-4-series-final",
+        "pubg-global-championship-2026"
+      ]
+    },
+    {
+      "id": "crazy-raccoon",
+      "name": "Crazy Raccoon",
+      "competitions": [
+        "pubg-global-series-2026-circuit-1-series-1",
+        "pubg-global-series-2026-circuit-1-series-2",
+        "pubg-global-series-2026-circuit-1-series-final",
+        "pubg-global-series-2026-circuit-2-series-1",
+        "pubg-global-series-2026-circuit-2-series-2",
+        "pubg-global-series-2026-circuit-2-series-final"
+      ]
+    },
+    {
+      "id": "theerathon-five",
+      "name": "Theerathon Five",
+      "competitions": [
+        "pubg-global-series-2026-circuit-1-series-1",
+        "pubg-global-series-2026-circuit-1-series-2",
+        "pubg-global-series-2026-circuit-1-series-final",
+        "pubg-global-series-2026-circuit-2-series-1",
+        "pubg-global-series-2026-circuit-2-series-2",
+        "pubg-global-series-2026-circuit-2-series-final"
+      ]
+    },
+    {
+      "id": "made-in-thailand",
+      "name": "Made in Thailand",
+      "competitions": [
+        "pubg-global-series-2026-circuit-1-series-1",
+        "pubg-global-series-2026-circuit-1-series-2",
+        "pubg-global-series-2026-circuit-1-series-final",
+        "pubg-global-series-2026-circuit-2-series-1",
+        "pubg-global-series-2026-circuit-2-series-2",
+        "pubg-global-series-2026-circuit-2-series-final",
+        "pubg-global-series-2026-circuit-3-series-1",
+        "pubg-global-series-2026-circuit-3-series-2",
+        "pubg-global-series-2026-circuit-3-series-final",
+        "pubg-global-series-2026-circuit-4-series-1",
+        "pubg-global-series-2026-circuit-4-series-2",
+        "pubg-global-series-2026-circuit-4-series-final",
+        "pubg-global-championship-2026"
+      ]
+    },
+    {
+      "id": "the-expendables",
+      "name": "The Expendables",
+      "competitions": [
+        "pubg-global-series-2026-circuit-1-series-1",
+        "pubg-global-series-2026-circuit-1-series-2",
+        "pubg-global-series-2026-circuit-1-series-final",
+        "pubg-global-series-2026-circuit-2-series-1",
+        "pubg-global-series-2026-circuit-2-series-2",
+        "pubg-global-series-2026-circuit-2-series-final",
+        "pubg-global-series-2026-circuit-3-series-1",
+        "pubg-global-series-2026-circuit-3-series-2",
+        "pubg-global-series-2026-circuit-3-series-final",
+        "pubg-global-championship-2026"
+      ]
+    },
+    {
+      "id": "cerberus-esports",
+      "name": "CERBERUS Esports",
+      "competitions": [
+        "pubg-global-series-2026-circuit-1-series-1",
+        "pubg-global-series-2026-circuit-1-series-2",
+        "pubg-global-series-2026-circuit-1-series-final",
+        "pubg-global-series-2026-circuit-2-series-1",
+        "pubg-global-series-2026-circuit-2-series-2",
+        "pubg-global-series-2026-circuit-2-series-final"
+      ]
+    },
+    {
+      "id": "brazil",
+      "name": "Brazil",
+      "competitions": [
+        "pubg-nations-cup-2026"
+      ]
+    },
+    {
+      "id": "germany",
+      "name": "Germany",
+      "competitions": [
+        "pubg-nations-cup-2026"
+      ]
+    },
+    {
+      "id": "indonesia",
+      "name": "Indonesia",
+      "competitions": [
+        "pubg-nations-cup-2026"
+      ]
+    },
+    {
+      "id": "argentina",
+      "name": "Argentina",
+      "competitions": [
+        "pubg-nations-cup-2026"
+      ]
+    },
+    {
+      "id": "australia",
+      "name": "Australia",
+      "competitions": [
+        "pubg-nations-cup-2026"
+      ]
+    },
+    {
+      "id": "canada",
+      "name": "Canada",
+      "competitions": [
+        "pubg-nations-cup-2026"
+      ]
+    },
+    {
+      "id": "chinese-taipei",
+      "name": "Chinese Taipei",
+      "competitions": [
+        "pubg-nations-cup-2026"
+      ]
+    },
+    {
+      "id": "denmark",
+      "name": "Denmark",
+      "competitions": [
+        "pubg-nations-cup-2026"
+      ]
+    },
+    {
+      "id": "finland",
+      "name": "Finland",
+      "competitions": [
+        "pubg-nations-cup-2026"
+      ]
+    },
+    {
+      "id": "india",
+      "name": "India",
+      "competitions": [
+        "pubg-nations-cup-2026"
+      ]
+    },
+    {
+      "id": "japan",
+      "name": "Japan",
+      "competitions": [
+        "pubg-nations-cup-2026"
+      ]
+    },
+    {
+      "id": "kazakhstan",
+      "name": "Kazakhstan",
+      "competitions": [
+        "pubg-nations-cup-2026"
+      ]
+    },
+    {
+      "id": "malaysia",
+      "name": "Malaysia",
+      "competitions": [
+        "pubg-nations-cup-2026"
+      ]
+    },
+    {
+      "id": "neutral",
+      "name": "Neutral",
+      "competitions": [
+        "pubg-nations-cup-2026"
+      ]
+    },
+    {
+      "id": "norway",
+      "name": "Norway",
+      "competitions": [
+        "pubg-nations-cup-2026"
+      ]
+    },
+    {
+      "id": "philippines",
+      "name": "Philippines",
+      "competitions": [
+        "pubg-nations-cup-2026"
+      ]
+    },
+    {
+      "id": "turkiye",
+      "name": "Türkiye",
+      "competitions": [
+        "pubg-nations-cup-2026"
+      ]
+    },
+    {
+      "id": "united-kingdom",
+      "name": "United Kingdom",
+      "competitions": [
+        "pubg-nations-cup-2026"
+      ]
+    },
+    {
+      "id": "tyloo",
+      "name": "TYLOO",
+      "competitions": [
+        "pubg-global-series-2026-circuit-3-series-1",
+        "pubg-global-series-2026-circuit-3-series-2",
+        "pubg-global-series-2026-circuit-3-series-final",
+        "pubg-global-series-2026-circuit-4-series-1",
+        "pubg-global-series-2026-circuit-4-series-2",
+        "pubg-global-series-2026-circuit-4-series-final"
+      ]
+    },
+    {
+      "id": "geekay-esports",
+      "name": "Geekay Esports",
+      "competitions": [
+        "pubg-global-series-2026-circuit-3-series-1",
+        "pubg-global-series-2026-circuit-3-series-2",
+        "pubg-global-series-2026-circuit-3-series-final",
+        "pubg-global-series-2026-circuit-4-series-1",
+        "pubg-global-series-2026-circuit-4-series-2",
+        "pubg-global-series-2026-circuit-4-series-final"
+      ]
+    },
+    {
+      "id": "godlike",
+      "name": "GodLike",
+      "competitions": [
+        "pubg-global-series-2026-circuit-3-series-1",
+        "pubg-global-series-2026-circuit-3-series-2",
+        "pubg-global-series-2026-circuit-3-series-final",
+        "pubg-global-series-2026-circuit-4-series-1",
+        "pubg-global-series-2026-circuit-4-series-2",
+        "pubg-global-series-2026-circuit-4-series-final"
+      ]
+    },
+    {
+      "id": "alpha-gaming",
+      "name": "Alpha Gaming",
+      "competitions": [
+        "pubg-global-series-2026-circuit-3-series-1",
+        "pubg-global-series-2026-circuit-3-series-2",
+        "pubg-global-series-2026-circuit-3-series-final",
+        "pubg-global-series-2026-circuit-4-series-1",
+        "pubg-global-series-2026-circuit-4-series-2",
+        "pubg-global-series-2026-circuit-4-series-final",
+        "pubg-global-championship-2026"
+      ]
+    },
+    {
+      "id": "09",
+      "name": "09",
+      "competitions": [
+        "pubg-global-series-2026-circuit-4-series-1",
+        "pubg-global-series-2026-circuit-4-series-2",
+        "pubg-global-series-2026-circuit-4-series-final",
+        "pubg-global-championship-2026"
+      ]
+    },
+    {
+      "id": "sharper-esport",
+      "name": "Sharper Esport",
+      "competitions": [
+        "pubg-global-series-2026-circuit-4-series-1",
+        "pubg-global-series-2026-circuit-4-series-2",
+        "pubg-global-series-2026-circuit-4-series-final"
+      ]
+    },
+    {
+      "id": "team-flash",
+      "name": "Team Flash",
+      "competitions": [
+        "pubg-global-series-2026-circuit-4-series-1",
+        "pubg-global-series-2026-circuit-4-series-2",
+        "pubg-global-series-2026-circuit-4-series-final"
+      ]
+    }
+  ],
+  "players": [
+    {
+      "id": "04nb",
+      "name": "04NB",
+      "team": "petrichor-road",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/04NB",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "1ee",
+      "name": "1ee",
+      "team": "tyloo",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/1ee",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "gt210kz",
+      "name": "210",
+      "team": "kazakhstan",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/gt210kz",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "adam",
+      "name": "Adam",
+      "team": "canada",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Adam",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G Pro Wireless",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro Wireless",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Logitech",
+          "model": "G Pro X Keyboard",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro X Keyboard",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "ZOWIE",
+          "model": "XL2540",
+          "color": null,
+          "edition": null,
+          "rawName": "ZOWIE XL2540",
+          "site": "prosettings"
+        },
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": "2026-10-19"
+    },
+    {
+      "id": "adouz1e",
+      "name": "ADOUZ1E",
+      "team": "neutral",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/ADOUZ1E",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G Pro X Superlight 2c",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Logitech G Pro X Superlight 2c Black",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Wooting",
+          "model": "80HE",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Wooting 80HE Black",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "ZOWIE",
+          "model": "XL2546K",
+          "color": null,
+          "edition": null,
+          "rawName": "ZOWIE XL2546K",
+          "site": "prosettings"
+        },
+        "headset": null,
+        "mousepad": {
+          "brand": "Artisan",
+          "model": "Hayate Otsu V2",
+          "color": "Red",
+          "edition": null,
+          "rawName": "Artisan Hayate Otsu V2 Mid Wine Red",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://prosettings.net/players/adouz1e/"
+      ],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": "2026-10-19"
+    },
+    {
+      "id": "aitzy",
+      "name": "Aitzy",
+      "team": "norway",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Aitzy",
+      "gear": {
+        "mouse": {
+          "brand": "ZOWIE",
+          "model": "EC2-A",
+          "color": null,
+          "edition": null,
+          "rawName": "ZOWIE EC2-A",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "SteelSeries",
+          "model": "Apex M750 TKL",
+          "color": null,
+          "edition": null,
+          "rawName": "SteelSeries Apex M750 TKL",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "ZOWIE",
+          "model": "XL2540",
+          "color": null,
+          "edition": null,
+          "rawName": "ZOWIE XL2540",
+          "site": "prosettings"
+        },
+        "headset": null,
+        "mousepad": {
+          "brand": "SteelSeries",
+          "model": "QcK",
+          "color": null,
+          "edition": null,
+          "rawName": "SteelSeries QcK Edge",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://prosettings.net/players/aitzy/"
+      ],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": "2026-10-19"
+    },
+    {
+      "id": "aj",
+      "name": "AJ",
+      "team": "malaysia",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/AJ",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "akan",
+      "name": "AKaN",
+      "team": "geekay-esports",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/AKaN",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "akuma",
+      "name": "Akuma",
+      "team": "17-gaming",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Akuma",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "alec",
+      "name": "Alec",
+      "team": "philippines",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Alec",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "aljnbotz",
+      "name": "AljnBOTz",
+      "team": "philippines",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/AljnBOTz",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "alow",
+      "name": "aLOW",
+      "team": "team-liquid",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/aLOW",
+      "gear": {
+        "mouse": {
+          "brand": "ZOWIE",
+          "model": "EC1-B",
+          "color": null,
+          "edition": null,
+          "rawName": "ZOWIE EC1-B",
+          "site": "prosettings"
+        },
+        "keyboard": null,
+        "monitor": null,
+        "headset": {
+          "brand": "Logitech",
+          "model": "G Pro X Headset",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro X Headset",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "ZOWIE",
+          "model": "G-SR-SE",
+          "color": "Deep Blue",
+          "edition": null,
+          "rawName": "ZOWIE G-SR-SE Deep Blue",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://prosettings.net/players/alow/"
+      ],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": "2026-10-19"
+    },
+    {
+      "id": "ares",
+      "name": "ares",
+      "team": "germany",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/ares",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "baren",
+      "name": "Baren",
+      "team": "made-in-thailand",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Baren",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "baron",
+      "name": "BARON",
+      "team": "s2g-esports",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/BARON",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "batulins",
+      "name": "BatulinS",
+      "team": "twisted-minds",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/BatulinS",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G Pro X Superlight",
+          "color": "White",
+          "edition": null,
+          "rawName": "Logitech G Pro X Superlight White",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "SteelSeries",
+          "model": "Apex Pro",
+          "color": null,
+          "edition": null,
+          "rawName": "SteelSeries Apex Pro",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "ZOWIE",
+          "model": "XL2546K",
+          "color": null,
+          "edition": null,
+          "rawName": "ZOWIE XL2546K",
+          "site": "prosettings"
+        },
+        "headset": null,
+        "mousepad": {
+          "brand": "Artisan",
+          "model": "Ninja FX Zero",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Artisan Ninja FX Zero Soft Black",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://prosettings.net/players/batulins/"
+      ],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": "2026-10-19"
+    },
+    {
+      "id": "beami",
+      "name": "Beami",
+      "team": "virtus-pro",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Beami",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "bean",
+      "name": "BeaN",
+      "team": "gen-g",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/BeaN",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "belmoth",
+      "name": "Belmoth",
+      "team": "full-sense",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Belmoth",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "bielmtcalmo",
+      "name": "bielmtcalmo",
+      "team": "brazil",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/bielmtcalmo",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "binblue",
+      "name": "BinBlue",
+      "team": "alpha-gaming",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/BinBlue",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "boost1k",
+      "name": "boost1k-",
+      "team": "natus-vincere",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/boost1k-",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "br1annn",
+      "name": "Br1annn",
+      "team": "cerberus-esports",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Br1annn",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "capitan",
+      "name": "Capitan",
+      "team": "argentina",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Capitan",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "ccinext",
+      "name": "CCINEXT",
+      "team": "s2g-esports",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/CCINEXT",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "ceejay18",
+      "name": "CeeJay18",
+      "team": "philippines",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/CeeJay18",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "celtik",
+      "name": "Celtik",
+      "team": "turkiye",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Celtik",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "clories",
+      "name": "Clories",
+      "team": "the-expendables",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Clories",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "codemarco",
+      "name": "CodeMarco",
+      "team": "turkiye",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/CodeMarco",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "cold119",
+      "name": "Cold119",
+      "team": "jd-gaming",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Cold119",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "cowboi",
+      "name": "CowBoi",
+      "team": "team-liquid",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/CowBoi",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "cui71",
+      "name": "Cui71",
+      "team": "petrichor-road",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Cui71",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "curexi",
+      "name": "curexi",
+      "team": "virtus-pro",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/curexi",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "dec12th",
+      "name": "Dec12th",
+      "team": "jd-gaming",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Dec12th",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "delwyn",
+      "name": "Delwyn",
+      "team": "anyone-s-legend",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Delwyn",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "destroyy",
+      "name": "Destroyy",
+      "team": "alpha-gaming",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Destroyy",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "diel",
+      "name": "DIEL",
+      "team": "freecs",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/DIEL",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "difx",
+      "name": "DIFX",
+      "team": "09",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/DIFX",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "dimasty",
+      "name": "DimasTy",
+      "team": "theerathon-five",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/DimasTy",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "diyy",
+      "name": "diyy",
+      "team": "team-liquid",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/diyy",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "donzz",
+      "name": "Donzz",
+      "team": "jd-gaming",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Donzz",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "dr4ftk1ng",
+      "name": "Dr4FTk1NG",
+      "team": "argentina",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Dr4FTk1NG",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "duckhjeuz",
+      "name": "DuCkHjeUz",
+      "team": "the-expendables",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/DuCkHjeUz",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "dyann",
+      "name": "Dyann",
+      "team": "alpha-gaming",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Dyann",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "earthzapalui",
+      "name": "Earthzapalui",
+      "team": "sharper-esport",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Earthzapalui",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "eend",
+      "name": "EEND",
+      "team": "t1",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/EEND",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "ej",
+      "name": "EJ",
+      "team": "geekay-esports",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/EJ",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "ej01",
+      "name": "EJ01",
+      "team": "geekay-esports",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/EJ01",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "emikxz",
+      "name": "emikxz",
+      "team": "argentina",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/emikxz",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "empt",
+      "name": "empt",
+      "team": "malaysia",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/empt",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "ermaak",
+      "name": "Ermaak",
+      "team": "kazakhstan",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Ermaak",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "excrozit",
+      "name": "Excrozit",
+      "team": "theerathon-five",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Excrozit",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "kalbs",
+      "name": "Eyaaa",
+      "team": "philippines",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Kalbs",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "f1nna",
+      "name": "f1nna",
+      "team": "canada",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/f1nna",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "fana",
+      "name": "fana",
+      "team": "godlike",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/fana",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "feaven",
+      "name": "Feaven",
+      "team": "japan",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Feaven",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "fexx",
+      "name": "Fexx",
+      "team": "united-kingdom",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Fexx",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G Pro X Superlight",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Logitech G Pro X Superlight Black",
+          "site": "prosettings"
+        },
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": {
+          "brand": "ZOWIE",
+          "model": "G-SR",
+          "color": null,
+          "edition": null,
+          "rawName": "ZOWIE G-SR",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://prosettings.net/players/fexx/"
+      ],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": "2026-10-19"
+    },
+    {
+      "id": "feyerist",
+      "name": "Feyerist",
+      "team": "natus-vincere",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Feyerist",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "flash",
+      "name": "Flash",
+      "team": "full-sense",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Flash",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G Pro Wireless",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro Wireless",
+          "site": "prosettings"
+        },
+        "keyboard": null,
+        "monitor": {
+          "brand": "ZOWIE",
+          "model": "XL2546K",
+          "color": null,
+          "edition": null,
+          "rawName": "ZOWIE XL2546K",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "HyperX",
+          "model": "Cloud II",
+          "color": null,
+          "edition": null,
+          "rawName": "HyperX Cloud II",
+          "site": "prosettings"
+        },
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": "2026-10-19"
+    },
+    {
+      "id": "fludd",
+      "name": "Fludd",
+      "team": "australia",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Fludd",
+      "gear": {
+        "mouse": {
+          "brand": "Razer",
+          "model": "Viper V4 Pro",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Razer Viper V4 Pro Black",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Ducky",
+          "model": "One 2 TKL",
+          "color": null,
+          "edition": null,
+          "rawName": "Ducky One 2 TKL",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "ZOWIE",
+          "model": "XL2546",
+          "color": null,
+          "edition": null,
+          "rawName": "ZOWIE XL2546",
+          "site": "prosettings"
+        },
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [
+        "https://prosettings.net/players/fludd/"
+      ],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": "2026-10-19"
+    },
+    {
+      "id": "flukky",
+      "name": "Flukky",
+      "team": "full-sense",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Flukky",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "g0ni1",
+      "name": "G0ni1",
+      "team": "japan",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/G0ni1",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "gedrox",
+      "name": "Gedrox",
+      "team": "team-vitality",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Gedrox",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "glaz",
+      "name": "Glaz",
+      "team": "crazy-raccoon",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Glaz",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "gustav",
+      "name": "Gustav",
+      "team": "team-falcons",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Gustav",
+      "gear": {
+        "mouse": {
+          "brand": "SteelSeries",
+          "model": "Prime Mini Wireless",
+          "color": null,
+          "edition": null,
+          "rawName": "SteelSeries Prime Mini Wireless",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "SteelSeries",
+          "model": "Apex Pro TKL",
+          "color": null,
+          "edition": null,
+          "rawName": "SteelSeries Apex Pro TKL",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "Acer",
+          "model": "Predator XB272",
+          "color": null,
+          "edition": null,
+          "rawName": "Acer Predator XB272",
+          "site": "prosettings"
+        },
+        "headset": null,
+        "mousepad": {
+          "brand": "SteelSeries",
+          "model": "QcK",
+          "color": "Black",
+          "edition": null,
+          "rawName": "SteelSeries QcK Heavy Black",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://prosettings.net/players/gustav/"
+      ],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": "2026-10-19"
+    },
+    {
+      "id": "gyumin",
+      "name": "Gyumin",
+      "team": "freecs",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Gyumin",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "gyuyeon",
+      "name": "Gyuyeon",
+      "team": "crazy-raccoon",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Gyuyeon",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "hakatory",
+      "name": "Hakatory",
+      "team": "natus-vincere",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Hakatory",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "hallomybad",
+      "name": "hallomybad",
+      "team": "team-vitality",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/hallomybad",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "haoskr",
+      "name": "HaoSkr",
+      "team": "tyloo",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/HaoSkr",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "haven",
+      "name": "Haven",
+      "team": "godlike",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Haven",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "heather",
+      "name": "Heather",
+      "team": "t1",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Heather",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "heaven",
+      "name": "Heaven",
+      "team": "freecs",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Heaven",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "himan",
+      "name": "Himan",
+      "team": "norway",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Himan",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "himass",
+      "name": "Himass",
+      "team": "anyone-s-legend",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Himass",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G Pro X2 SUPERSTRIKE",
+          "color": "Lunar Eclipse",
+          "edition": null,
+          "rawName": "Logitech G Pro X2 SUPERSTRIKE Lunar Eclipse",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Wooting",
+          "model": "80HE",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Wooting 80HE Black",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "ZOWIE",
+          "model": "XL2546K",
+          "color": null,
+          "edition": null,
+          "rawName": "ZOWIE XL2546K",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "HyperX",
+          "model": "Cloud II",
+          "color": null,
+          "edition": null,
+          "rawName": "HyperX Cloud II",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "ZOWIE",
+          "model": "H-SR-SE ROUGE II",
+          "color": null,
+          "edition": null,
+          "rawName": "ZOWIE H-SR-SE ROUGE II",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://prosettings.net/players/himass/"
+      ],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": "2026-10-19"
+    },
+    {
+      "id": "hoangf",
+      "name": "Hoangf",
+      "team": "the-expendables",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Hoangf",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "hsmm",
+      "name": "HSmm",
+      "team": "four-angry-men",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/HSmm",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "hwinn",
+      "name": "hwinn",
+      "team": "team-falcons",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/hwinn",
+      "gear": {
+        "mouse": {
+          "brand": "ZOWIE",
+          "model": "EC3-DW",
+          "color": "Black",
+          "edition": null,
+          "rawName": "ZOWIE EC3-DW Black",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Logitech",
+          "model": "G Pro Keyboard",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro Keyboard",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "ZOWIE",
+          "model": "XL2546K",
+          "color": null,
+          "edition": null,
+          "rawName": "ZOWIE XL2546K",
+          "site": "prosettings"
+        },
+        "headset": null,
+        "mousepad": {
+          "brand": "ZOWIE",
+          "model": "G-SR",
+          "color": null,
+          "edition": null,
+          "rawName": "ZOWIE G-SR",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://prosettings.net/players/hwinn/"
+      ],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": "2026-10-19"
+    },
+    {
+      "id": "i26v6",
+      "name": "i26v6",
+      "team": "petrichor-road",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/i26v6",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "iamf1ve",
+      "name": "iamf1ve-",
+      "team": "kazakhstan",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/iamf1ve-",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "iexe",
+      "name": "iExE",
+      "team": "finland",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/iExE",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "inonix",
+      "name": "Inonix",
+      "team": "crazy-raccoon",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Inonix",
+      "gear": {
+        "mouse": {
+          "brand": "Roccat",
+          "model": "Kone Pure Ultra",
+          "color": null,
+          "edition": null,
+          "rawName": "ROCCAT Kone Pure Ultra",
+          "site": "prosettings"
+        },
+        "keyboard": null,
+        "monitor": {
+          "brand": "ZOWIE",
+          "model": "XL2546",
+          "color": null,
+          "edition": null,
+          "rawName": "ZOWIE XL2546",
+          "site": "prosettings"
+        },
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [
+        "https://prosettings.net/players/inonix/"
+      ],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": "2026-10-19"
+    },
+    {
+      "id": "issac",
+      "name": "Issac",
+      "team": "anyone-s-legend",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Issac",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "itzzchrizz",
+      "name": "ItzzChrizZ",
+      "team": "germany",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/ItzzChrizZ",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "jacob",
+      "name": "Jacob",
+      "team": "made-in-thailand",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Jacob",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "jdaii",
+      "name": "Jdaii",
+      "team": "sharper-esport",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Jdaii",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "jeemzz",
+      "name": "Jeemzz",
+      "team": "norway",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Jeemzz",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G Pro X Superlight",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Logitech G Pro X Superlight Black",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Ducky",
+          "model": "One 2 Mini",
+          "color": null,
+          "edition": null,
+          "rawName": "Ducky One 2 Mini",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "Alienware",
+          "model": "AW2518H",
+          "color": null,
+          "edition": null,
+          "rawName": "Alienware AW2518H",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "Bose",
+          "model": "QuietComfort 20",
+          "color": null,
+          "edition": null,
+          "rawName": "Bose QuietComfort 20",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Logitech",
+          "model": "G840",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G840",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://prosettings.net/players/jeemzz/"
+      ],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": "2026-10-19"
+    },
+    {
+      "id": "jekzy",
+      "name": "Jekzy",
+      "team": "indonesia",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Jekzy",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "justus",
+      "name": "Justus",
+      "team": "germany",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Justus",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "kaymind",
+      "name": "Kaymind",
+      "team": "canada",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Kaymind",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "ketter",
+      "name": "Ketter",
+      "team": "denmark",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Ketter",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "khawkong",
+      "name": "Khawkong",
+      "team": "theerathon-five",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Khawkong",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "kickstart",
+      "name": "Kickstart",
+      "team": "team-falcons",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Kickstart",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G Pro Wireless",
+          "color": null,
+          "edition": null,
+          "rawName": "Logitech G Pro Wireless",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Anne",
+          "model": "Pro 2",
+          "color": null,
+          "edition": null,
+          "rawName": "Anne Pro 2",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "ZOWIE",
+          "model": "XL2546",
+          "color": null,
+          "edition": null,
+          "rawName": "ZOWIE XL2546",
+          "site": "prosettings"
+        },
+        "headset": null,
+        "mousepad": {
+          "brand": "Fnatic",
+          "model": "DASH",
+          "color": null,
+          "edition": null,
+          "rawName": "Fnatic DASH",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://prosettings.net/players/kickstart/"
+      ],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": "2026-10-19"
+    },
+    {
+      "id": "kiss",
+      "name": "KISS",
+      "team": "made-in-thailand",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/KISS",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "kkong",
+      "name": "KKong",
+      "team": "tyloo",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/KKong",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "lahza",
+      "name": "LAHZA",
+      "team": "s2g-esports",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/LAHZA",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "lambaouwu",
+      "name": "LamBaouWu",
+      "team": "team-flash",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/LamBaouWu",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "lericz",
+      "name": "Lericz",
+      "team": "earena",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Lericz",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "lev4nte",
+      "name": "Lev4nte",
+      "team": "team-vitality",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Lev4nte",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "lfp1",
+      "name": "lfp1",
+      "team": "godlike",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/lfp1",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "lilghost",
+      "name": "Lilghost",
+      "team": "17-gaming",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Lilghost",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "longx",
+      "name": "LongX",
+      "team": "team-flash",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/LongX",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "lu",
+      "name": "Lu",
+      "team": "twisted-minds",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Lu",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "lukarux",
+      "name": "Lukarux",
+      "team": "virtus-pro",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Lukarux",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "luke12",
+      "name": "luke12",
+      "team": "team-liquid",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/luke12",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G Pro X Superlight",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Logitech G Pro X Superlight Black",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Ducky",
+          "model": "One 2 TKL",
+          "color": null,
+          "edition": null,
+          "rawName": "Ducky One 2 TKL",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "ZOWIE",
+          "model": "XL2546",
+          "color": null,
+          "edition": null,
+          "rawName": "ZOWIE XL2546",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "HyperX",
+          "model": "Cloud II",
+          "color": null,
+          "edition": null,
+          "rawName": "HyperX Cloud II",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "Artisan",
+          "model": "Hayate Otsu V2",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Artisan Hayate Otsu V2 XSoft Black",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://prosettings.net/players/luke12/"
+      ],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": "2026-10-19"
+    },
+    {
+      "id": "lunlun",
+      "name": "lunlun",
+      "team": "chinese-taipei",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/lunlun",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "mellman",
+      "name": "Mellman",
+      "team": "09",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Mellman",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G Pro X Superlight",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Logitech G Pro X Superlight Black",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "HyperX",
+          "model": "Alloy FPS",
+          "color": null,
+          "edition": null,
+          "rawName": "HyperX Alloy FPS",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "Alienware",
+          "model": "AW2518H",
+          "color": null,
+          "edition": null,
+          "rawName": "Alienware AW2518H",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "EPOS",
+          "model": "GSP 500",
+          "color": null,
+          "edition": null,
+          "rawName": "EPOS GSP 500",
+          "site": "prosettings"
+        },
+        "mousepad": null
+      },
+      "gearSources": [
+        "https://prosettings.net/players/mellman/"
+      ],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": "2026-10-19"
+    },
+    {
+      "id": "metebey",
+      "name": "Metebey",
+      "team": "turkiye",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Metebey",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "mikzenn",
+      "name": "Mikzenn",
+      "team": "denmark",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Mikzenn",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "mmao",
+      "name": "MMAO",
+      "team": "change-the-game",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/MMAO",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "mming",
+      "name": "MMing",
+      "team": "petrichor-road",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/MMing",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "molodoct",
+      "name": "Molodoct",
+      "team": "twisted-minds",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Molodoct",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "monty",
+      "name": "monty",
+      "team": "australia",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/monty",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "mykle",
+      "name": "mykLe",
+      "team": "united-kingdom",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/mykLe",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "nanss",
+      "name": "nanss",
+      "team": "jd-gaming",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/nanss",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "nixzyee",
+      "name": "NIXZYEE",
+      "team": "virtus-pro",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/NIXZYEE",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "nourinz",
+      "name": "Nourinz",
+      "team": "earena",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Nourinz",
+      "gear": {
+        "mouse": {
+          "brand": "Finalmouse",
+          "model": "Starlight-12",
+          "color": null,
+          "edition": null,
+          "rawName": "FinalMouse Starlight-12",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Ducky",
+          "model": "One 2 Mini",
+          "color": null,
+          "edition": null,
+          "rawName": "Ducky One 2 Mini",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "ZOWIE",
+          "model": "XL2546K",
+          "color": null,
+          "edition": null,
+          "rawName": "ZOWIE XL2546K",
+          "site": "prosettings"
+        },
+        "headset": null,
+        "mousepad": {
+          "brand": "VAXEE",
+          "model": "PA",
+          "color": null,
+          "edition": null,
+          "rawName": "VAXEE PA ZYGEN",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://prosettings.net/players/nourinz/"
+      ],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": "2026-10-19"
+    },
+    {
+      "id": "ohpondz",
+      "name": "OHPONDZ",
+      "team": "earena",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/OHPONDZ",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "onedragon",
+      "name": "OneDragon",
+      "team": "tyloo",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/OneDragon",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "paiinz",
+      "name": "PaiinZ",
+      "team": "germany",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/PaiinZ",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "parkpro",
+      "name": "Parkpro",
+      "team": "geekay-esports",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Parkpro",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "pathompong",
+      "name": "Pathompong",
+      "team": "earena",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Pathompong",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "peekk1ng",
+      "name": "PeekK1ng",
+      "team": "change-the-game",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/PeekK1ng",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "perfect1ks",
+      "name": "Perfect1ks",
+      "team": "twisted-minds",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Perfect1ks",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "pio",
+      "name": "Pio",
+      "team": "crazy-raccoon",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Pio",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G Pro X Superlight 2",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Logitech G Pro X Superlight 2 Black",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Corsair",
+          "model": "K65 TKL",
+          "color": null,
+          "edition": null,
+          "rawName": "Corsair K65 TKL",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "ZOWIE",
+          "model": "XL2546",
+          "color": null,
+          "edition": null,
+          "rawName": "ZOWIE XL2546",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "Bose",
+          "model": "QuietComfort 20",
+          "color": null,
+          "edition": null,
+          "rawName": "Bose QuietComfort 20",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "VAXEE",
+          "model": "PA",
+          "color": "Black",
+          "edition": null,
+          "rawName": "VAXEE PA Black",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://prosettings.net/players/pio/"
+      ],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": "2026-10-19"
+    },
+    {
+      "id": "pipaa",
+      "name": "PIPAA",
+      "team": "argentina",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/PIPAA",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "possa",
+      "name": "possa",
+      "team": "furia",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/possa",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "purdykurty",
+      "name": "PurdyKurty",
+      "team": "team-liquid",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/PurdyKurty",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "chibiritt",
+      "name": "QueenV3WHL",
+      "team": "indonesia",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Chibiritt",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "quetpa",
+      "name": "Quetpa",
+      "team": "s2g-esports",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Quetpa",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "qwzyyy",
+      "name": "QWZYYY",
+      "team": "team-vitality",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/QWZYYY",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "rain1ng",
+      "name": "Rain1ng",
+      "team": "t1",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Rain1ng",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "rangerx",
+      "name": "RangerX",
+      "team": "theerathon-five",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/RangerX",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "rex",
+      "name": "REX",
+      "team": "freecs",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/REX",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "rossitedjr",
+      "name": "RossitedJR",
+      "team": "theerathon-five",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/RossitedJR",
+      "gear": {
+        "mouse": {
+          "brand": "ZOWIE",
+          "model": "FK2",
+          "color": null,
+          "edition": null,
+          "rawName": "ZOWIE FK2",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "ZOWIE",
+          "model": "Celeritas II",
+          "color": null,
+          "edition": null,
+          "rawName": "ZOWIE Celeritas II",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "ZOWIE",
+          "model": "XL2540",
+          "color": null,
+          "edition": null,
+          "rawName": "ZOWIE XL2540",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "HyperX",
+          "model": "Cloud II",
+          "color": null,
+          "edition": null,
+          "rawName": "HyperX Cloud II",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "ZOWIE",
+          "model": "G-SR-SE",
+          "color": "Pink",
+          "edition": null,
+          "rawName": "ZOWIE G-SR-SE Divina Pink",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": "2026-10-19"
+    },
+    {
+      "id": "runax",
+      "name": "Runax",
+      "team": "japan",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Runax",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "rushiie",
+      "name": "RUSHIIE",
+      "team": "full-sense",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/RUSHIIE",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "ryzn07",
+      "name": "Ryzn07",
+      "team": "india",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Ryzn07",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "s4tta",
+      "name": "S4TTA",
+      "team": "finland",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/S4TTA",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "salute",
+      "name": "Salute",
+      "team": "gen-g",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Salute",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "sapauu",
+      "name": "Sapauu",
+      "team": "alpha-gaming",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Sapauu",
+      "gear": {
+        "mouse": {
+          "brand": "ZOWIE",
+          "model": "EC2-B",
+          "color": null,
+          "edition": null,
+          "rawName": "ZOWIE EC2-B",
+          "site": "prosettings"
+        },
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [
+        "https://web.archive.org/web/20250424214855/https://prosettings.net/lists/pubg/"
+      ],
+      "gearUpdatedAt": "2025-04-24",
+      "gearFromSeason": 2025,
+      "gearCheckedAt": "2025-04-24"
+    },
+    {
+      "id": "savior-taiwanese-player",
+      "name": "Savior",
+      "team": "chinese-taipei",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Savior_(Taiwanese_Player)",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "scappy",
+      "name": "Scappy",
+      "team": "made-in-thailand",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Scappy",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "seongjang",
+      "name": "Seongjang",
+      "team": "geekay-esports",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Seongjang",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "seoul",
+      "name": "seoul",
+      "team": "gen-g",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/seoul",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "setsunaa",
+      "name": "Setsunaa",
+      "team": "indonesia",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Setsunaa",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "shen",
+      "name": "Shen",
+      "team": "four-angry-men",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Shen",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "shilla",
+      "name": "Shilla",
+      "team": "turkiye",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Shilla",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "shinboi",
+      "name": "Shinboi",
+      "team": "canada",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Shinboi",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "shrimzy",
+      "name": "Shrimzy",
+      "team": "team-falcons",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Shrimzy",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G Pro X Superlight 2",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Logitech G Pro X Superlight 2 Black",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "HyperX",
+          "model": "Alloy FPS Pro",
+          "color": null,
+          "edition": null,
+          "rawName": "HyperX Alloy FPS Pro",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "ASUS",
+          "model": "ROG SWIFT PG258Q",
+          "color": null,
+          "edition": null,
+          "rawName": "ASUS ROG SWIFT PG258Q",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "HyperX",
+          "model": "Cloud II",
+          "color": null,
+          "edition": null,
+          "rawName": "HyperX Cloud II",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "ZOWIE",
+          "model": "G-SR",
+          "color": null,
+          "edition": null,
+          "rawName": "ZOWIE G-SR",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://prosettings.net/players/shrimzy/"
+      ],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": "2026-10-19"
+    },
+    {
+      "id": "simont",
+      "name": "SimonT",
+      "team": "alpha-gaming",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/SimonT",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "skav",
+      "name": "SkaV",
+      "team": "finland",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/SkaV",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "slydd",
+      "name": "SlyDD",
+      "team": "malaysia",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/SlyDD",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "snipaul",
+      "name": "SniPauL",
+      "team": "india",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/SniPauL",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "sololzy",
+      "name": "Sololzy",
+      "team": "anyone-s-legend",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Sololzy",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "sosed",
+      "name": "SoseD",
+      "team": "09",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/SoseD",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "spaceman",
+      "name": "SpaceMan",
+      "team": "four-angry-men",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/SpaceMan",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "sparkingg",
+      "name": "sparkingg",
+      "team": "brazil",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/sparkingg",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "spyrro",
+      "name": "spyrro",
+      "team": "natus-vincere",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/spyrro",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "staed",
+      "name": "staed",
+      "team": "09",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/staed",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "stannnl",
+      "name": "StannnL",
+      "team": "cerberus-esports",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/StannnL",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "suix1ngkzk",
+      "name": "SuiX1ngKzK",
+      "team": "change-the-game",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/SuiX1ngKzK",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "sunnys1de-up",
+      "name": "Sunnys1de-up",
+      "team": "japan",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Sunnys1de-up",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "suze",
+      "name": "SuZe",
+      "team": "jd-gaming",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/SuZe",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "taemin",
+      "name": "taemin",
+      "team": "gen-g",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/taemin",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "taikonn",
+      "name": "Taikonn",
+      "team": "anyone-s-legend",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Taikonn",
+      "gear": {
+        "mouse": {
+          "brand": "Corsair",
+          "model": "M75 Wireless",
+          "color": null,
+          "edition": null,
+          "rawName": "Corsair M75 Wireless",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Wooting",
+          "model": "60HE+",
+          "color": null,
+          "edition": null,
+          "rawName": "Wooting 60HE+",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "ZOWIE",
+          "model": "XL2546K",
+          "color": null,
+          "edition": null,
+          "rawName": "ZOWIE XL2546K",
+          "site": "prosettings"
+        },
+        "headset": {
+          "brand": "Corsair",
+          "model": "HS80 MAX",
+          "color": null,
+          "edition": null,
+          "rawName": "Corsair HS80 MAX",
+          "site": "prosettings"
+        },
+        "mousepad": {
+          "brand": "ZOWIE",
+          "model": "G-SR-SE",
+          "color": null,
+          "edition": null,
+          "rawName": "ZOWIE G-SR-SE ROUGE II",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://prosettings.net/players/taikonn/"
+      ],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": "2026-10-19"
+    },
+    {
+      "id": "tanbinh",
+      "name": "TanBinh",
+      "team": "cerberus-esports",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/TanBinh",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "tanvuu",
+      "name": "TanVuu",
+      "team": "the-expendables",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/TanVuu",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "tduy",
+      "name": "TDuy",
+      "team": "team-flash",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/TDuy",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "teabone",
+      "name": "TeaBone",
+      "team": "united-kingdom",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/TeaBone",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "tekkerz",
+      "name": "TekkerZ",
+      "team": "norway",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/TekkerZ",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "tgltn",
+      "name": "TGLTN",
+      "team": "team-falcons",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/TGLTN",
+      "gear": {
+        "mouse": {
+          "brand": "Logitech",
+          "model": "G Pro X3 SUPERSTRIKE",
+          "color": "Midnight Black",
+          "edition": null,
+          "rawName": "Logitech G Pro X3 SUPERSTRIKE Midnight Black",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "Wooting",
+          "model": "80HE",
+          "color": null,
+          "edition": "TenZ Edition",
+          "rawName": "Wooting 80HE TenZ Edition",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "ZOWIE",
+          "model": "XL2546",
+          "color": null,
+          "edition": null,
+          "rawName": "ZOWIE XL2546",
+          "site": "prosettings"
+        },
+        "headset": null,
+        "mousepad": {
+          "brand": "Artisan",
+          "model": "Type-99",
+          "color": "Matcha",
+          "edition": null,
+          "rawName": "Artisan Type-99 Matcha",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://prosettings.net/players/tgltn/"
+      ],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": "2026-10-19"
+    },
+    {
+      "id": "thanad0l",
+      "name": "Thanad0l",
+      "team": "full-sense",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Thanad0l",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "thanawatth",
+      "name": "ThanawatTH",
+      "team": "sharper-esport",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/ThanawatTH",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "thunderz",
+      "name": "Thunderz",
+      "team": "sharper-esport",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Thunderz",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "tiantian",
+      "name": "tiantian",
+      "team": "17-gaming",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/tiantian",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "tiantianhaovo",
+      "name": "tiantianhaovo",
+      "team": "17-gaming",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/tiantianhaovo",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "tigger",
+      "name": "TiGGER",
+      "team": "full-sense",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/TiGGER",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "tny7",
+      "name": "Tny7",
+      "team": "godlike",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Tny7",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "trnsluc3nt",
+      "name": "Trnsluc3nt",
+      "team": "india",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Trnsluc3nt",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "tryck",
+      "name": "tRycK",
+      "team": "indonesia",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/tRycK",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "ttt",
+      "name": "TTT",
+      "team": "team-flash",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/TTT",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "type",
+      "name": "Type",
+      "team": "t1",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Type",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "unforgiven",
+      "name": "Unforgiven",
+      "team": "india",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Unforgiven",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "upchen",
+      "name": "Upchen",
+      "team": "chinese-taipei",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Upchen",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "vard",
+      "name": "vard",
+      "team": "united-kingdom",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/vard",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "verstory",
+      "name": "Verstory",
+      "team": "kazakhstan",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Verstory",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "wenbo",
+      "name": "WenBo",
+      "team": "17-gaming",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/WenBo",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "windah",
+      "name": "WINDah",
+      "team": "four-angry-men",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/WINDah",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "x1no",
+      "name": "X1no",
+      "team": "chinese-taipei",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/X1no",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "yuyu",
+      "name": "XcDh",
+      "team": "change-the-game",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Yuyu",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "xcircle",
+      "name": "Xcircle",
+      "team": "change-the-game",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Xcircle",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "xmpl",
+      "name": "xmpl",
+      "team": "twisted-minds",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/xmpl",
+      "gear": {
+        "mouse": {
+          "brand": "Ninjutso",
+          "model": "Sora V2",
+          "color": "White",
+          "edition": null,
+          "rawName": "Ninjutso Sora V2 White",
+          "site": "prosettings"
+        },
+        "keyboard": {
+          "brand": "SteelSeries",
+          "model": "Apex Pro TKL",
+          "color": null,
+          "edition": null,
+          "rawName": "SteelSeries Apex Pro TKL",
+          "site": "prosettings"
+        },
+        "monitor": {
+          "brand": "ZOWIE",
+          "model": "XL2566X+",
+          "color": null,
+          "edition": null,
+          "rawName": "ZOWIE XL2566X+",
+          "site": "prosettings"
+        },
+        "headset": null,
+        "mousepad": {
+          "brand": "Artisan",
+          "model": "Hayate Otsu V2",
+          "color": "Black",
+          "edition": null,
+          "rawName": "Artisan Hayate Otsu V2 Soft Black",
+          "site": "prosettings"
+        }
+      },
+      "gearSources": [
+        "https://prosettings.net/players/xmpl/"
+      ],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": "2026-10-19"
+    },
+    {
+      "id": "xwudd",
+      "name": "xwudd",
+      "team": "17-gaming",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/xwudd",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "ymcud",
+      "name": "YmCud",
+      "team": "alpha-gaming",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/YmCud",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "yudirt",
+      "name": "YUDIRT",
+      "team": "cerberus-esports",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/YUDIRT",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "zest",
+      "name": "Zest",
+      "team": "cerberus-esports",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/Zest",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    },
+    {
+      "id": "zkraken",
+      "name": "zkraken",
+      "team": "brazil",
+      "role": null,
+      "liquipedia": "https://liquipedia.net/pubg/zkraken",
+      "gear": {
+        "mouse": null,
+        "keyboard": null,
+        "monitor": null,
+        "headset": null,
+        "mousepad": null
+      },
+      "gearSources": [],
+      "gearUpdatedAt": null,
+      "gearFromSeason": null,
+      "gearCheckedAt": null
+    }
+  ]
+}

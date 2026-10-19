@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>선수 · 팀 검색 · ProGear</title>
+  <meta name="description" content="프로 선수나 팀 이름으로 장비를 검색하세요.">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
+  <link rel="stylesheet" href="css/style.css?v=2026101904">
+</head>
+<body>
+  <header id="site-header"></header>
+
+  <main class="container">
+    <div class="page-head">
+      <p class="eyebrow">Search</p>
+      <h1 class="page-h1">선수 · 팀 검색</h1>
+      <form class="big-search" id="search-form" role="search">
+        <label class="visually-hidden" for="q">선수 또는 팀 이름</label>
+        <input id="q" name="q" type="search" placeholder="예: Faker, TenZ, ZywOo, T1" autocomplete="off">
+        <button type="submit" class="btn">검색</button>
+      </form>
+      <div class="filter-chips" id="game-filter" role="group" aria-label="게임 필터"></div>
+    </div>
+
+    <div id="results" class="results" aria-live="polite"></div>
+  </main>
+
+  <footer id="site-footer"></footer>
+
+  <script src="js/config.js?v=2026101904"></script>
+  <script src="js/ui.js?v=2026101904"></script>
+  <script src="js/data.js?v=2026101904"></script>
+  <script src="js/search.js?v=2026101904"></script>
+</body>
+</html>
